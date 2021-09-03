@@ -12,12 +12,53 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<style>
+			body {
+				background-color: powderblue;
+				background-image: url("image.jpg");
+				background-size: cover;
+			}
+
+			h1 {color: blue;}
+
+			.logotext h2 {
+			    font-family: 'Jeju Gothic', sans-serif;
+			    font-size: 6em;
+			    text-align: justify;
+			    color: white;
+			    z-index: 1;
+			    opacity: 0.7;
+			 }
+
+			.text a {
+			    font-family: 'Jeju Gothic', sans-serif;
+			    font-size: 2em;
+			    text-align: justify;
+			    color: white;
+			    z-index: 3;
+			    opacity: 0.7;
+			}
+
+			.li {
+			    line-height:300%
+			}
+			a {
+				text-decoration-line: none;
+			}
+		</style>
 		<meta charset="utf-8">
 		<title>MAIN</title>
 	</head>
-	<body>
-		<a href="">자기소개</a>
-		<a href="">좋아하는 것</a>
-		<a href="">todolist</a>
+	<body class = "logotext">
+		<div>
+			<h2>Main Page</h2>
+		</div>
+		<div class = "text">
+			<ol>
+				<div class = "li"><a href="my01.html">About</a></div>
+				<div class = "li"><a href="my02.html">좋아하는 것</a></div>
+				<div class = "li"><a href="my03.html">ToDoList</a></div>
+			</ol>
+		</div>
 	</body>
 </html>
