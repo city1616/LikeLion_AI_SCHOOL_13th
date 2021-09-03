@@ -1,0 +1,39 @@
+<!-- 
+	2021_09_03_06
+	내용 : 
+	HTML : Hyper Text Markup Language
+		- HTML is the standard markup language for creating Web pages.
+		- HTML consists of a series of elements
+	HTML Element : An HTML element is defined by a start tag, some content, and an end tag
+		<tagname>Content</tagname>
+		ex) <title>Page Title</title>, <p>This is a paragraph.</p>
+	HTML Attributes
+		- All HTML elements can have attributes
+		- Attributes provide additional information about elements
+		- Attributes are always specified in the start tag
+	src attribute :
+		- 절대 경로 : 전체 경로
+		- 상대 경로 : 현재 위치 기준 파일명, 상대적 경로(../image.jpg)
+	<pre></pre> : Defines pre-formatted text
+		- 띄어쓰기, 개행문자 등 그대로 출력
+	<strong></strong> : Important text
+
+
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Page Title</title>
+	</head>
+	<body>
+		<h1>This is a Heading</h1>
+		<p>This is a paragraph.</p>
+		<a href="https://www.google.co.kr">Google</a>
+		<img src = "image.jpg" width = 500 height = 300 alt = "image not found">
+		<img src = "../image.jpg" width = 500 height = 300 alt = "image not found">
+		<p title = "I'm a tooltip">This is a paragraph.</p>
+		<p style = "background-color: Dodgerblue;">This is a paragraph.</p>
+		<p style = "color: Tomato; background-color: Dodgerblue;">This is a paragraph.</p>
+	</body>
+</html>
