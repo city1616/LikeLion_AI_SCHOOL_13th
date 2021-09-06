@@ -11,4 +11,4 @@
 	* 05 html summary [source code]()
 
 * CSS 기본 이해 실습
-	* 01 id, class [source code]()
+	* 01 id, class [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html)
