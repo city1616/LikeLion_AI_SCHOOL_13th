@@ -11,4 +11,14 @@
 	* 05 html summary [source code]()
 
 * CSS 기본 이해 실습
-	* 01 id, class [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html)
+	* 01 id, class [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html)
+	* 02 interal CSS [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/03_multi.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/03_multi.html)
+	* 03 inline CSS [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/04_inline.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/04_inline.html)
+	* 04 external CSS [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/04_inline.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/04_inline.html)
+	* 05 external CSS example [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/06_ex_example.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/06_ex_example.html)
+	* 06 border style [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/07_border_style.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/07_border_style.html)
+	* 07 margin [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/08_margin.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/08_margin.html)
+	* 08 padding [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/09_padding.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/09_padding.html)
+	* 09 padding, margin [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/10_padding_margin.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/10_padding_margin.html)
+	* 09 padding, margin [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/11_link.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/11_link.html)
+	* Toy Project - 나의 사진 갤러리 [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html)
