@@ -1,4 +1,6 @@
-# 웹의 이해 및 HTML 기본 실습 [저장소 웹 URL로 이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본)
+# 웹의 이해 및 HTML 기본 실습
+
+### [저장소 웹 URL로 이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본)
 
 ## 웹의 이해 및 HTML 기본 실습
 * HTML 기본 이해 실습
