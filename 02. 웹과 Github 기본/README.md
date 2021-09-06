@@ -4,11 +4,12 @@
 
 ## 웹의 이해 및 HTML 기본 실습
 * HTML 기본 이해 실습
-	* 01 title tag [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/web_html/01_html_title.html)
-	* 02 body, p tab [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/web_html/02_html_body_p.html)
-	* 03 a, img tag [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/web_html/03_html_link_img.html)
-	* 04 div, span, ul, ol, li [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/web_html/04_html_div_span.html)
-	* 05 html summary [source code]()
+	* 01 title tag [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
+	* 02 body, p tab [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
+	* 03 a, img tag [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html)
+	* 04 div, span, ul, ol, li [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html)
+	* 05 html summary [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html)
+	* 자기소개 페이지 [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/main.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/main.html)
 
 * CSS 기본 이해 실습
 	* 01 id, class [이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html)
