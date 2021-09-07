@@ -1,0 +1,25 @@
+<!--
+    2021_09_07_3
+    javascript start
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id = "p1">여기의 내용이 변경됩니다.</p>
+<p id = "p2">여기의 내용이 변경됩니다.</p>
+<a>링크 내용</a><br>
+<button onclick = "change_content()">버튼</button>
+
+<script>
+    function change_content() {
+        // p태그의 요소를 가져와서 내용을 변경하는 한 줄 코드
+        document.getElementById("p1").innerHTML = "변경된 내용";
+        document.getElementById("p2").innerHTML = "변경됨";
+    }
+</script>
+</body>
+</html>
