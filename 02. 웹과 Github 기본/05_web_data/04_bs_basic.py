@@ -52,8 +52,24 @@ soup = BeautifulSoup(page, 'lxml')
 print(soup.title)
 
 # 태그명 soup.태그명 => 해당되는 요소의 정보를 가져온다.
-print(soup.title)
-print(soup.body)
-print(soup.div)
-print(soup.img)
+# print(soup.title)
+# print(soup.body)
+# print(soup.div)
+# print(soup.img)
 print(soup.a)
+print(soup.a.text)
+print(soup.p.text)
+print(soup.div.p.text)
+
+# id, class를 활용해서 정보 가져오기 - 하나의 요소(find)
+# id, class를 활용해서 정보 가져오기 - 모든 요소(find_all)
+print(soup.find("p", id = "p4").text)
+print(soup.find_all("p"))
+
+# find, find_all
+# 실습하기 - naver와 모든 a태그 요소 가져오기
+print(soup.find("a").text)
+print(soup.find_all("a"))
+
+# div 요소 정보를 가지고 온 후, p(id="p4")요소 가져오기
+print(soup.div.find("p", id = "p4").text)
