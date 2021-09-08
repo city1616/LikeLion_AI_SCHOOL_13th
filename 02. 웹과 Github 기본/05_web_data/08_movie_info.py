@@ -1,4 +1,6 @@
 # 2021_09_08_6 7
+# 네이버 영화 정보
+# 영화 제목, 평점, 평점 참여명수, 예매율 가지고 와서 csv 파일 생성
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
