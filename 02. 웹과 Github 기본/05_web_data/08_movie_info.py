@@ -54,6 +54,15 @@ print(cnt_person)
 
 # 타이틀, 평점, 평점 참여명수, 예매율
 # 파일 만들기
-dict_dat = {"영화제목" : movie_title, "평점" : score, "평점 참여명수" : cnt_person}
-movie_df = pd.DataFrame(dict_dat)
+dict_dat = {"영화제목" : movie_title, "평점" : score, "예매율" : ticketing, "평점 참여명수" : cnt_person}
+# movie_df = pd.DataFrame({k: np.nan if not v else v for k, v in dict_dat.items()})
+
+# 방법 1. 크기가 다른 리스트 DataFrame 만들기
+series = {"영화제목" : pd.Series(movie_title), "평점" : pd.Series(score), "예매율" : pd.Series(ticketing), "평점 참여명수" : pd.Series(cnt_person)}
+movie_df = pd.DataFrame(series)
+
+# 방법 2. 크기가 다른 리스트 DataFrame 만들기
+# movie_df = pd.DataFrame.from_dict(dict_dat, orient = "index")
+# movie_df = movie_df.transpose()
 print(movie_df)
+movie_df.to_csv("네이버 영화 정보.csv")
