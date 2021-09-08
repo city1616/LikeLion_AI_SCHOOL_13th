@@ -172,7 +172,7 @@
             if(!_this.active) return;
             ctx.beginPath();
             ctx.arc(_this.pos.x, _this.pos.y, _this.radius, 0, 2 * Math.PI, false);
-            ctx.fillStyle = 'rgba(156,217,249,'+ _this.active+')';
+            ctx.fillStyle = 'rgba(10,217,249,'+ _this.active+')';
             ctx.fill();
         };
     }
