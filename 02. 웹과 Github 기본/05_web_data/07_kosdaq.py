@@ -73,12 +73,12 @@ for idx, one in enumerate(pop_news[0].find_all("a")) :
     cnt_news.append(one.text)
 
 # csv 파일 생성
-data_kosdaq = pd.DataFrame({"코스닥" : kosdaq_info}, index = [0])
+data_kosdaq = pd.DataFrame({"코스닥" : kosdaq_info, "거래량(천주)" : deal_info.text, "장중최고" : deal_max, "52주최고" : high_52[2].text}, index = [0])
 data_news = pd.DataFrame({"시황뉴스" : news_list})
 data_report = pd.DataFrame({"시황정보 리포트" : report})
 data_pop_word = pd.DataFrame({"인기검색어" : pop_word})
 data_cnt_news = pd.DataFrame({"가장 많이 본 뉴스" : cnt_news})
-# print(data_kosdaq)
+print(data_kosdaq)
 # print(data_news)
 # print(data_report)
 # print(data_pop_word)
