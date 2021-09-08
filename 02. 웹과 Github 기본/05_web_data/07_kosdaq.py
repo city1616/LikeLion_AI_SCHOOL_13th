@@ -9,6 +9,10 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import datetime
+
+now = datetime.now()
+print("현재시간 :", now)
 
 url = "https://finance.naver.com/sise/sise_index.nhn?code=KOSDAQ"
 page = urlopen(url)
@@ -88,6 +92,8 @@ print(data_kosdaq)
 # data_report.to_csv("시황정보_리포트_20210908_report.csv", index = False)
 # data_pop_word.to_csv("인기검색어_20210908_pop_word.csv", index = False)
 # data_cnt_news.to_csv("가장_많이_본_뉴스_20210908_cnt_news.csv", index = False)
+
+# 여러 파일을 하나로 병합시키기
 df1 = pd.read_csv("지수_정보_20210908_index.csv")
 df2 = pd.read_csv("시황정보_뉴스_20210908_news.csv")
 df3 = pd.read_csv("시황정보_리포트_20210908_report.csv")
@@ -96,4 +102,4 @@ df5 = pd.read_csv("가장_많이_본_뉴스_20210908_cnt_news.csv")
 # result = pd.merge(df1, df2, how = "left")
 result_df = pd.concat([df1, df2, df3, df4, df5], axis = 1)
 # print(result_df)
-result_df.to_csv("merge_result.csv", index = False)
+# result_df.to_csv("merge_result.csv", index = False)
