@@ -95,3 +95,4 @@ print(soup.find_all("a")[1].text)
 # a 태그의 link 정보 가져오기
 print()
 print(soup.find_all("a")[1].attrs['href'])
+print(soup.find_all("a")[1]['href'], soup.find_all("a")[1].string)
