@@ -63,13 +63,35 @@ print(soup.div.p.text)
 
 # id, class를 활용해서 정보 가져오기 - 하나의 요소(find)
 # id, class를 활용해서 정보 가져오기 - 모든 요소(find_all)
+print()
 print(soup.find("p", id = "p4").text)
 print(soup.find_all("p"))
 
 # find, find_all
 # 실습하기 - naver와 모든 a태그 요소 가져오기
-print(soup.find("a").text)
-print(soup.find_all("a"))
+print()
+a1 = soup.find("a")
+print(type(a1), a1.text)
+
+a = soup.find_all("a")
+print(type(a), a)
+print(a[0].text) # index로 접근 가능
+for i in a :
+    print(i.text)
 
 # div 요소 정보를 가지고 온 후, p(id="p4")요소 가져오기
+print()
 print(soup.div.find("p", id = "p4").text)
+
+# 실습
+# class 정보를 이용해서 p3인 것을 가져와서 2번째 요소의 text를 출력하기 - 한줄 코드
+print()
+print(soup.find_all("p", class_ = "p3")[1].text)
+
+# google 텍스트 정보 가져오기 - 한줄 코드
+print()
+print(soup.find_all("a")[1].text)
+
+# a 태그의 link 정보 가져오기
+print()
+print(soup.find_all("a")[1].attrs['href'])
