@@ -27,11 +27,11 @@
 * Javascript 기본 이해 실습
 
 * WEB DATA 수집 실습
-	* BeautifulSoup 실습 [source code]()
-	* KOSPI 정보 가져온 후 CSV 파일 생성 [source code]()
-	* KOSDAQ 정보 가져온 후 CSV 파일 생성 [source code]()
-	* NAVER MOVIE 현재 상영작 제목, 평점, 참여명수, 예매율, 개요 가져온 후 CSV 파일 생성 [source code]()
-	* NAVER MOVIE 스파이더맨: 뉴 유니버스 1 페이지 댓글 가져온 후 CSV 파일 생성 [source code]()
-	* NAVER MOVIE 스파이더맨: 뉴 유니버스 1 ~ 5 페이지 댓글 가져온 후 CSV 파일 생성 [source code]()
-	* 텍스트 시각화, Wordcloud [source code]()
-	* 샹치와 텐 링즈의 전설 댓글 1 ~ 100 페이지 댓글 가져온 후 Wordcloud 생성 [source code]()
+	* BeautifulSoup 실습 [source code 1](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/04_bs_basic.py) [source code 2](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/05_bs_basic.py)
+	* KOSPI 정보 가져온 후 CSV 파일 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/06_stock_get.py)
+	* KOSDAQ 정보 가져온 후 CSV 파일 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/07_kosdaq.py)
+	* NAVER MOVIE 현재 상영작 제목, 평점, 참여명수, 예매율, 개요 가져온 후 CSV 파일 생성 [source code 1](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/08_movie_info.py) [source code 2](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/09_naver_movie_01.py)
+	* NAVER MOVIE 스파이더맨: 뉴 유니버스 1 페이지 댓글 가져온 후 CSV 파일 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/10_naver_movie_comment_single_page.py)
+	* NAVER MOVIE 스파이더맨: 뉴 유니버스 1 ~ 5 페이지 댓글 가져온 후 CSV 파일 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/11_naver_movie_comment_multi_page.py)
+	* 텍스트 시각화, Wordcloud [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/12_text_vis.py)
+	* 샹치와 텐 링즈의 전설 댓글 1 ~ 100 페이지 댓글 가져온 후 Wordcloud 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/13_text_vis2.py)
