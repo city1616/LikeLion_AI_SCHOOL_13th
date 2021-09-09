@@ -33,3 +33,7 @@
 * NAVER MOVIE 스파이더맨: 뉴 유니버스 1 ~ 5 페이지 댓글 가져온 후 CSV 파일 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/11_naver_movie_comment_multi_page.py)
 * 텍스트 시각화, Wordcloud [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/12_text_vis.py)
 * 샹치와 텐 링즈의 전설 댓글 1 ~ 100 페이지 댓글 가져온 후 Wordcloud 생성 [source code](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/13_text_vis2.py) [Wordcloud](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/DATA/wordcloud_샹치와%20텐%20링즈의%20전설_댓글_1000개.png)
+
+|						|source code			|이동		  			|
+|-----------------------|-----------------------|-------------------|
+|hello                  |                       |                   |
