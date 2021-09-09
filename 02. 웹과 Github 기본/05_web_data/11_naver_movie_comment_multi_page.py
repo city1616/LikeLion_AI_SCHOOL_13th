@@ -26,4 +26,5 @@ for idx, val in enumerate(comments) :
 comment_dict = {"영화댓글" : comments}
 comment_df = pd.DataFrame(comment_dict)
 print(comment_df)
-# comment_df.to_csv("네이버 영화 댓글 50개.csv")
+comment_df.to_csv("./CSV/네이버 영화 댓글 50개.csv")
+comment_df.to_excel("./EXCEL/네이버 영화 댓글 50개.xlsx")
