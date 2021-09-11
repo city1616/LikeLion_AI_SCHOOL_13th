@@ -2,12 +2,13 @@
 
 ## 웹의 이해 및 HTML 기본 실습
 ### HTML 기본 이해 실습
-* 01 title tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
-* 02 body, p tab [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
-* 03 a, img tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html)
-* 04 div, span, ul, ol, li [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html)
-* 05 html summary [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html)
-* 자기소개 페이지 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/main.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/main.html)
+
+1. title tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
+2. body, p tab [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
+3. a, img tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html)
+4. div, span, ul, ol, li [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html)
+5. html summary [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html)
+6. 자기소개 페이지 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/main.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/main.html)
 
 ### CSS 기본 이해 실습
 * 01 id, class [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html)
@@ -36,3 +37,5 @@
 * selenium basic 실습 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/16_selenium_basic.ipynb)
 * selenium naver.com 페이지 띄우고, 검색, 정보 확인하기 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/17_selenium_naver.ipynb)
 * selenium amazon.com 아이템 페이지 정보 넘겨받고, 두 페이지 리뷰 모두 가져오기 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/18_selenium_amazon_item_review.ipynb)
+
+😄😄😄
