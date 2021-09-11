@@ -4,6 +4,7 @@
 ### HTML 기본 이해 실습
 
 1. title tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
+
 2. body,  p tab [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
 3. a, img tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html)
 4. div, span, ul, ol, li [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html)
