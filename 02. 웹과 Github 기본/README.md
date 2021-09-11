@@ -1,7 +1,7 @@
 ### [저장소 웹 URL로 이동](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본)
 
 ## 웹의 이해 및 HTML 기본 실습
-### HTML 기본 이해 실습
+#### HTML 기본 이해 실습
 
 1. title tag [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
 2. body, p tab [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
@@ -11,7 +11,8 @@
 6. 자기소개 페이지 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/02_web_html/main.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/02_web_html/main.html)
 
 ### CSS 기본 이해 실습
-1.  id, class [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) 2. interal CSS [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/03_multi.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/03_multi.html)
+1. id, class [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) 
+2. interal CSS [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/03_multi.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/03_multi.html)
 3. inline CSS [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/04_inline.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/04_inline.html)
 4. external CSS [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/04_inline.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/04_inline.html)
 5. external CSS example [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/06_ex_example.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/06_ex_example.html)
