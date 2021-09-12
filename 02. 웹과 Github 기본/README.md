@@ -23,7 +23,7 @@
 10. padding, margin [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/11_link.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/11_link.html)
 11. Toy Project - 나의 사진 갤러리 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html)
 
-#### Javascript 기본 이해 실습
+### Javascript 기본 이해 실습
 
 ### WEB DATA 수집 실습
 * BeautifulSoup 실습 [코드 1](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/04_bs_basic.py) [코드 2](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/05_bs_basic.py)
