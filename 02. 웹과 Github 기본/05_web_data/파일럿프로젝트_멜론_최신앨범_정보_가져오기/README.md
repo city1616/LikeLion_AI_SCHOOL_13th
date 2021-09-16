@@ -11,12 +11,12 @@
 	* selenium, xpath를 이용한다.
 	* 앨범명, 아티스트, 좋아요 수, 수록곡 수, 발매일의 정보를 가져온다.
 	* DataFrame 생성 후, CSV 파일로 저장한다.
-	* CSV 파일명 : 크롤링한날짜_최신앨범정보.csv
+	* CSV 파일명 : 크롤링한 날짜_최신앨범정보.csv
 * 멜론 차트의 TOP100 곡의 정보를 크롤링 한다.
 	* selenium, xpath를 이용한다.
 	* 곡명, 아티스트, 좋아요, 앨범명의 정보를 가져온다.
 	* DataFrame 생성 후, CSV 파일로 저장한다.
-	* CSV 파일명 : 크롤링한날짜_ㅡmelon_TOP100.csv
+	* CSV 파일명 : 크롤링한 날짜_ㅡmelon_TOP100.csv
 
 ### 데이터 분석 전략
 * dataframe의 정보를 살펴본다.
