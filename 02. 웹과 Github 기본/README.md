@@ -39,4 +39,10 @@
 * selenium naver.com 페이지 띄우고, 검색, 정보 확인하기 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/17_selenium_naver.ipynb)
 * selenium amazon.com 아이템 페이지 정보 넘겨받고, 두 페이지 리뷰 모두 가져오기 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/18_selenium_amazon_item_review.ipynb)
 
+
+### 파일럿 프로젝트(selenium을 이용한 멜론 음악 정보 크롤링)
+* 멜론 홈페이지에서 최신앨범 정보 크롤링 후, CSV 파일로 저장
+* 멜론 차트의 TOP100 정보 크롤링 후, CSV 파일로 저장
+
+
 😄😄😄
