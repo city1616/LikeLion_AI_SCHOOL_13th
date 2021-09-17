@@ -1,6 +1,15 @@
 # 전국 치과 데이터 크롤링
 # 치과 데이터를 분석해 신설 치과, 폐업 치과 분석
 
+## 2021_09_17
+# 치과 데이터 크롤링
+# 치과 데이터 파일 다운로드
+# 다운로드 받을 폴더 지정
+
+## 추후 작업 내용
+# 다운로드 받은 파일명 수정 -> 현재시간_파일명
+# 두개의 다른 데이터 비교 분석
+
 # 병원약국 xpath : //*[@id="header"]/div[2]/ul/li[1]/h2/a
 # 세부 조건별 찾기 xpath :  //*[@id="header"]/div[2]/ul/li[1]/div/div/ul/li[1]/ul/li[2]/a
 # 병원 규모별 xpath : //*[@id="typeTab01"]
@@ -13,8 +22,9 @@ from selenium.webdriver.common.alert import Alert
 import time
 
 # 다운로드 파일 폴더 지정
+directory_location = r'/Users/seungwoomun/Documents/Github/LikeLion_13th_DataCourse/02. 웹과 Github 기본/05_web_data/개인 프로젝트'
 options = webdriver.ChromeOptions()
-prefs = {'download.default_directory' : r'/Users/seungwoomun/Documents/Github/LikeLion_13th_DataCourse/02. 웹과 Github 기본/05_web_data/개인 프로젝트'}
+prefs = {'download.default_directory' : directory_location}
 options.add_experimental_option('prefs', prefs)
 # driver = webdriver.Chrome(chrome_options = options)
 
