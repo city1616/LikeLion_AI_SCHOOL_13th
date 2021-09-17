@@ -21,7 +21,7 @@ from  selenium import webdriver
 from selenium.webdriver.common.alert import Alert
 import time
 
-# 다운로드 파일 폴더 지정
+# 다운로드 파일 폴더 지정 - option 지정
 directory_location = r'/Users/seungwoomun/Documents/Github/LikeLion_13th_DataCourse/02. 웹과 Github 기본/05_web_data/개인 프로젝트'
 options = webdriver.ChromeOptions()
 prefs = {'download.default_directory' : directory_location}
