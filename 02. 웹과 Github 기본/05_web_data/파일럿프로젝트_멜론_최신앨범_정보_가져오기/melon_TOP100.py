@@ -50,7 +50,7 @@ print("top100 album title list length :", len(album_list))
 
 # DataFrame 생성 후 확인
 # CSV 파일 생성
-data_dict = {"곡 제목" : top100_list, "아티스트" : artist_list, "좋아요" : heart_cnt_list, "앨범" : album_list}
+data_dict = {"곡명" : top100_list, "아티스트" : artist_list, "좋아요" : heart_cnt_list, "앨범" : album_list}
 melon_top100 = pd.DataFrame(data_dict)
 print(melon_top100)
 melon_top100.to_csv("./" + datetime.today().strftime("%Y_%m_%d") + "_melon_TOP100.csv", index = False)
