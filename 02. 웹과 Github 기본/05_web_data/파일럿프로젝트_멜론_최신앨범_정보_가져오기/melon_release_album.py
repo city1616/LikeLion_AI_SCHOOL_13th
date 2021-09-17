@@ -156,7 +156,7 @@ print("new album release date list length :", len(nard_list))
 print("country list length :", len(country_list))
 
 # 앨범 정보 DataFrame 생성
-album_dict = {"곡 제목" : nat_list, "아티스트" : naa_list, "좋아요" : nahc_list, "수록곡 수" : nasc_list, "발매일" : nard_list, "국가" : country_list}
+album_dict = {"앨범명" : nat_list, "아티스트" : naa_list, "좋아요" : nahc_list, "수록곡 수" : nasc_list, "발매일" : nard_list, "국가" : country_list}
 album_df = pd.DataFrame(album_dict)
 print(album_df)
 album_df.to_csv("./" + datetime.today().strftime("%Y_%m_%d") + "_최신앨범정보.csv", index = False)
