@@ -25,7 +25,7 @@
 
 ### Javascript 기본 이해 실습
 1. var [실행]() | [코드]()
-2. 입력 받은 값 더하기 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/04_1_var_example.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/04_1_var_example.html)
+2. 입력 받은 값 더하기 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/04_javascript_example/04_1_var_example.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/04_1_var_example.html)
 
 
 ### WEB DATA 수집 실습
