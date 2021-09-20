@@ -30,7 +30,7 @@
 4. array [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/04_javascript_example/07_array.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/07_array.html)
 5. 배열의 값을 하나씩 출력해 보는 프로그램(for) [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/04_javascript_example/08_for.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/08_for.html)
 6. 외부 javascript 불러오기 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/04_javascript_example/09_external_js.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/09_external_js.html) | [js코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/09_for.js)
-7. 외부 javascript 불러오기 [실행]() | [코드]() | [js코드]()
+7. 외부 javascript 불러오기 [실행](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/04_javascript_example/10_ex_js.html) | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/10_ex_js.html) | [js코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/10_ex.js)
 
 
 ### WEB DATA 수집 실습
