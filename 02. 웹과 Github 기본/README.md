@@ -50,5 +50,11 @@
 * 멜론 홈페이지에서 최신앨범 정보 크롤링 후, CSV 파일로 저장 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_release_album.py) | [notebook](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_release_album.ipynb) | [CSV](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_최신앨범정보.csv)
 * 멜론 차트의 TOP100 정보 크롤링 후, CSV 파일로 저장 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.py) | [notebook](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.ipynb) | [CSV](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_melon_TOP100.csv)
 
+### PYTHON LIBRARY
+* folium basic [코드]()
+* 나의 맛집 리스트 지도 표시 [코드]() | [지도]()
+* 내가 자주 가는 장소, 기억에 남는 장소 지도 표시 [코드]() | [지도]()
+* 서울특별시 불법주정차/전용차로 위반 단속 CCTV 위치 정보 지도 표시 [코드]() | [지도](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/06_python_library/03_folium/HTML/seoul_cctv.html)
+
 
 😄😄😄😄😄😄
