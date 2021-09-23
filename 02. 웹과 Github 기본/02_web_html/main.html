@@ -13,15 +13,17 @@
 <html>
 	<head>
 		<style>
+			* {
+				box-sizing: border-box;
+			}
+
 			body {
 				background-color: powderblue;
 				background-image: url("image.jpg");
 				background-size: cover;
 			}
-
-			h1 {color: blue;}
-
-			.logotext h2 {
+			
+			.logotext h1 {
 			    font-family: 'Jeju Gothic', sans-serif;
 			    font-size: 6em;
 			    text-align: justify;
@@ -51,23 +53,30 @@
 				text-align: center;
 				margin-top: 200px;
 			}
+			
+
 		</style>
 		<meta charset="utf-8">
 		<title>MAIN</title>
 	</head>
 	<body class = "logotext">
-		<div>
-			<h2>Main Page</h2>
+		<div class = "container demo-1">
+			<div class = "content">
+				<div id = "large-header" class = "large-header">
+					<canvas id = "demo-canvas"></canvas>
+					<h1 class = "main-title">MAIN</h1>
+				</div>
+				<div class = "text">
+					<ol>
+						<div class = "li"><a href="my01.html">About</a></div>
+						<div class = "li"><a href="my02.html">좋아하는 것</a></div>
+						<div class = "li"><a href="my03.html">ToDoList</a></div>
+						<div class = "li"><a href="../03_CSS/12_img_gallery.html">Gallery</a></div>
+					</ol>
+				</div>
+			</div>
 		</div>
-		<div class = "text">
-			<ol>
-				<div class = "li"><a href="my01.html">About</a></div>
-				<div class = "li"><a href="my02.html">좋아하는 것</a></div>
-				<div class = "li"><a href="my03.html">ToDoList</a></div>
-				<div class = "li"><a href="../03_CSS/12_img_gallery.html">Gallery</a></div>
-			</ol>
-		</div>
-
+		
 		<script src = "demo_1.js"></script>
 		<script src = "demo_2.js"></script>
 		<script src = "demo_3.js"></script>
