@@ -17,6 +17,8 @@ print(response_body)
 
 print(type(response_body))
 
+print(urlopen(request).item)
+
 '''
 import requests
 
