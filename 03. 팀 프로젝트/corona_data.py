@@ -1,6 +1,7 @@
+# Team Project
+# corona data 수집
 
 # Python 샘플 코드 #
-
 
 # from urllib2 import Request, urlopen
 from urllib.request import Request, urlopen
