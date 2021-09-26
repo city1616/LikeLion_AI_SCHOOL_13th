@@ -19,8 +19,6 @@ print(type(response_body))
 
 print(request)
 
-
-
 '''
 import requests
 
