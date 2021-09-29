@@ -1,5 +1,6 @@
 ## 다음 확장자 전체 무시
 *.DS_Store
+*.exe
 
 .idea/
 .ipynb_checkpoints/
