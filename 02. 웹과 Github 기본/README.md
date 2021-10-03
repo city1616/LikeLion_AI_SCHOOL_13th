@@ -51,29 +51,23 @@
 * 멜론 차트의 TOP100 정보 크롤링 후, CSV 파일로 저장 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.py) | [notebook](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.ipynb) | [CSV](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_melon_TOP100.csv)
 
 ### PYTHON LIBRARY(seaborn, pandas, folium, plotly, konlpy)
-### seaborn
 <hr>
 
+### seaborn
 1. seaborn basic [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/01_seaborn_basic.ipynb)
 2. kaggle Titanic data seaborn 실습 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/02_kaggle_Titanic_seaborn.ipynb)
 
 ### pandas
-<hr>
 
 ### folium
-<hr>
 
 ### plotly
-<hr>
 
 ### titanic data analysis
-<hr>
 
 ### corona analysis
-<hr>
 
 ### konlpy
-<hr>
 
 1. folium basic [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/01_folium_basic.ipynb)
 2. 나의 맛집 리스트 지도 표시 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/02_맛집_list.ipynb) | [지도](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/06_python_library/03_folium/HTML/02_맛집_list.html)
