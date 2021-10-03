@@ -52,6 +52,8 @@
 
 ### PYTHON LIBRARY
 #### seaborn
+<hr>
+
 #### pandas
 #### folium
 #### plotly
