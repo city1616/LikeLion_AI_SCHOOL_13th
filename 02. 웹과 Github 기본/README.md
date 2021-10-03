@@ -61,7 +61,7 @@
 1. pandas basic [코드]()
 2. titanic data analysis [코드]()
 3. corona data analysis [코드]()
-4. titanic data analysis
+4. titanic data analysis [코드]()
 
 ### folium
 
