@@ -57,7 +57,7 @@
 1. seaborn basic [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/01_seaborn_basic.ipynb)
 2. kaggle Titanic data seaborn 실습 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/02_kaggle_Titanic_seaborn.ipynb)
 
-### pandas
+### pandas 
 
 ### folium
 
