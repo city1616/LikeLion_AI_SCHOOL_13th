@@ -59,7 +59,9 @@
 
 ### pandas
 1. pandas basic
-2. 
+2. titanic data analysis
+3. corona data analysis
+4. titanic data analysis
 
 ### folium
 
