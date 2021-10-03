@@ -50,7 +50,7 @@
 * 멜론 홈페이지에서 최신앨범 정보 크롤링 후, CSV 파일로 저장 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_release_album.py) | [notebook](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_release_album.ipynb) | [CSV](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_최신앨범정보.csv)
 * 멜론 차트의 TOP100 정보 크롤링 후, CSV 파일로 저장 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.py) | [notebook](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.ipynb) | [CSV](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_melon_TOP100.csv)
 
-### PYTHON LIBRARY
+### PYTHON LIBRARY(seaborn, pandas, folium, plotly, konlpy)
 ### seaborn
 <hr>
 
