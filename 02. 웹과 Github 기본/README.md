@@ -78,6 +78,7 @@
 3. plotly express basic [코드]()
 
 ### titanic data analysis
+1. Titanic Data Preprocessing 1 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/05_titanic_data_analysis/01_Titanic_Data_Preprocessing.ipynb)
 
 ### corona analysis
 
