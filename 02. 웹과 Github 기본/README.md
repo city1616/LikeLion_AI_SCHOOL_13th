@@ -75,7 +75,7 @@
 ### plotly
 1. plotly basic [코드]()
 2. plotly titanic [코드]()
-3. plotly express basic
+3. plotly express basic [코드]()
 
 ### titanic data analysis
 
