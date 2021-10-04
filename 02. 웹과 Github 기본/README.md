@@ -62,6 +62,7 @@
 2. titanic data analysis [코드]()
 3. corona data analysis [코드]()
 4. titanic data analysis [코드]()
+5. 
 
 ### folium
 
