@@ -73,7 +73,7 @@
 6. 전국 스타벅스 위치 지도 표시(진행중) [코드]() | [지도]()
 
 ### plotly
-1. plotly basic
+1. plotly basic [코드]()
 2. plotly titanic
 3. plotly express basic
 
