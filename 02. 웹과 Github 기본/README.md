@@ -68,7 +68,8 @@
 1. folium basic [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/01_folium_basic.ipynb)
 2. 나의 맛집 리스트 지도 표시 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/02_맛집_list.ipynb) | [지도](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/06_python_library/03_folium/HTML/02_맛집_list.html)
 3. 내가 자주 가는 장소, 기억에 남는 장소 지도 표시 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/03_장소_list.ipynb) | [지도](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/06_python_library/03_folium/HTML/03_장소_list.html)
-4. 서울특별시 불법주정차/전용차로 위반 단속 CCTV 위치 정보 지도 표시 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/05_CCTV_folium_지도%20표시.ipynb) | [지도](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/06_python_library/03_folium/HTML/seoul_cctv.html)
+4. 
+5. 서울특별시 불법주정차/전용차로 위반 단속 CCTV 위치 정보 지도 표시 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/05_CCTV_folium_지도%20표시.ipynb) | [지도](https://city1616.github.io/LikeLion_13th_DataCourse/02.%20웹과%20Github%20기본/06_python_library/03_folium/HTML/seoul_cctv.html)
 
 ### plotly
 
