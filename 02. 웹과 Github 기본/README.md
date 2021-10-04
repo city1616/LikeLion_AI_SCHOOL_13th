@@ -59,8 +59,8 @@
 
 ### pandas
 1. pandas basic [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/01_pandas_basic.ipynb)
-2. titanic data analysis [코드]()
-3. corona data analysis [코드]()
+2. titanic data analysis [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/02_Titanic_pandas.ipynb)
+3. corona data analysis [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/03_pandas_corona.ipynb)
 4. titanic data analysis [코드]()
 
 ### folium
