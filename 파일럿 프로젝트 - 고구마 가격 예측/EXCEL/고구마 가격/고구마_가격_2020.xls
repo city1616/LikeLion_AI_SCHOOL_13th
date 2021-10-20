@@ -1,0 +1,8306 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+	<title>가격정보 - 친환경농산물 - 품목별 엑셀 출력</title>
+	<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+	<style type="text/css">
+		table caption	{ text-align:left; }
+		table th		{ background-color:#eff2f9; }
+		table td		{ mso-number-format:\@; text-align:general; vertical-align:middle; text-align:center; white-space:nowrap; mso-rotate:0; mso-background-source:auto; mso-pattern:auto; color:black; font-size:11.0pt; font-style:normal; text-decoration:none; font-family:"맑은 고딕", monospace; mso-font-charset:129; border:1px; mso-protection:locked visible; mso-style-name:표준; mso-style-id:0; }
+		table td.c		{ text-align:center;}
+		table td.l		{ text-align:left; }
+		table td.r		{ text-align:right; }
+	</style>
+</head>
+<body>
+	<table>
+		<tr>
+			<td	class="data">
+				<table id="data" border="1px">
+					
+						<caption></caption>
+							<colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col>
+	
+							<!-- header 생성 -->
+							
+								
+									
+										
+											</colgroup><tbody><tr>
+											<th scope="col" class="first" colspan="1">구분</th>
+										
+										<th scope="col" class="">01/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/30</th>
+										
+										
+									
+										
+										<th scope="col" class="">01/31</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">02/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/30</th>
+										
+										
+									
+										
+										<th scope="col" class="">03/31</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/01</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">04/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">05/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/01</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">06/30</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/01</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/30</th>
+										
+										
+									
+										
+										<th scope="col" class="">07/31</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">08/31</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/01</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">09/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">10/30</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/04</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/05</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/06</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/12</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/13</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/19</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/20</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/25</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/26</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/27</th>
+										
+										
+									
+										
+										<th scope="col" class="">11/30</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/01</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/02</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/03</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/07</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/08</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/09</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/10</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/11</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/14</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/15</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/16</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/17</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/18</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/21</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/22</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/23</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/24</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/28</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/29</th>
+										
+										
+									
+										
+										<th scope="col" class="">12/30</th>
+										
+										
+									
+										
+										<th scope="col" class="last">12/31</th>
+										
+											</tr>
+										
+										
+									
+								
+							
+								
+							
+	
+							<!-- body 생성 -->
+								
+									
+										<tr class="fwb">
+											
+												<td class="first cell_tit1" colspan="1">평균</td>
+											
+											
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">25,800</td>
+									
+								
+									
+									<td class="">25,800</td>
+									
+								
+									
+									<td class="">25,800</td>
+									
+								
+									
+									<td class="">25,600</td>
+									
+								
+									
+									<td class="">25,800</td>
+									
+								
+									
+									<td class="">26,020</td>
+									
+								
+									
+									<td class="">26,020</td>
+									
+								
+									
+									<td class="">26,620</td>
+									
+								
+									
+									<td class="">26,620</td>
+									
+								
+									
+									<td class="">26,620</td>
+									
+								
+									
+									<td class="">26,620</td>
+									
+								
+									
+									<td class="">26,600</td>
+									
+								
+									
+									<td class="">26,800</td>
+									
+								
+									
+									<td class="">26,400</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,400</td>
+									
+								
+									
+									<td class="">25,800</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,800</td>
+									
+								
+									
+									<td class="">27,400</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,200</td>
+									
+								
+									
+									<td class="">27,800</td>
+									
+								
+									
+									<td class="">27,400</td>
+									
+								
+									
+									<td class="">26,800</td>
+									
+								
+									
+									<td class="">25,400</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,250</td>
+									
+								
+									
+									<td class="">25,250</td>
+									
+								
+									
+									<td class="">27,250</td>
+									
+								
+									
+									<td class="">30,750</td>
+									
+								
+									
+									<td class="">33,750</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">34,250</td>
+									
+								
+									
+									<td class="">34,250</td>
+									
+								
+									
+									<td class="">34,250</td>
+									
+								
+									
+									<td class="">35,250</td>
+									
+								
+									
+									<td class="">35,250</td>
+									
+								
+									
+									<td class="">33,800</td>
+									
+								
+									
+									<td class="">33,800</td>
+									
+								
+									
+									<td class="">35,200</td>
+									
+								
+									
+									<td class="">35,800</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,200</td>
+									
+								
+									
+									<td class="">36,800</td>
+									
+								
+									
+									<td class="">36,800</td>
+									
+								
+									
+									<td class="">36,600</td>
+									
+								
+									
+									<td class="">36,600</td>
+									
+								
+									
+									<td class="">36,800</td>
+									
+								
+									
+									<td class="">36,800</td>
+									
+								
+									
+									<td class="">36,800</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,400</td>
+									
+								
+									
+									<td class="">35,400</td>
+									
+								
+									
+									<td class="">35,200</td>
+									
+								
+									
+									<td class="">35,400</td>
+									
+								
+									
+									<td class="">36,600</td>
+									
+								
+									
+									<td class="">36,800</td>
+									
+								
+									
+									<td class="">37,200</td>
+									
+								
+									
+									<td class="">38,200</td>
+									
+								
+									
+									<td class="">38,200</td>
+									
+								
+									
+									<td class="">39,400</td>
+									
+								
+									
+									<td class="">39,800</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">41,800</td>
+									
+								
+									
+									<td class="">44,000</td>
+									
+								
+									
+									<td class="">45,600</td>
+									
+								
+									
+									<td class="">46,600</td>
+									
+								
+									
+									<td class="">46,800</td>
+									
+								
+									
+									<td class="">46,600</td>
+									
+								
+									
+									<td class="">46,600</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">48,400</td>
+									
+								
+									
+									<td class="">49,800</td>
+									
+								
+									
+									<td class="">52,600</td>
+									
+								
+									
+									<td class="">51,400</td>
+									
+								
+									
+									<td class="">51,000</td>
+									
+								
+									
+									<td class="">50,800</td>
+									
+								
+									
+									<td class="">51,000</td>
+									
+								
+									
+									<td class="">51,000</td>
+									
+								
+									
+									<td class="">50,200</td>
+									
+								
+									
+									<td class="">51,200</td>
+									
+								
+									
+									<td class="">54,400</td>
+									
+								
+									
+									<td class="">53,600</td>
+									
+								
+									
+									<td class="">55,200</td>
+									
+								
+									
+									<td class="">55,200</td>
+									
+								
+									
+									<td class="">55,200</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">56,800</td>
+									
+								
+									
+									<td class="">58,400</td>
+									
+								
+									
+									<td class="">59,800</td>
+									
+								
+									
+									<td class="">60,800</td>
+									
+								
+									
+									<td class="">60,400</td>
+									
+								
+									
+									<td class="">60,400</td>
+									
+								
+									
+									<td class="">60,200</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">60,600</td>
+									
+								
+									
+									<td class="">59,800</td>
+									
+								
+									
+									<td class="">59,800</td>
+									
+								
+									
+									<td class="">59,400</td>
+									
+								
+									
+									<td class="">59,200</td>
+									
+								
+									
+									<td class="">57,400</td>
+									
+								
+									
+									<td class="">55,400</td>
+									
+								
+									
+									<td class="">55,400</td>
+									
+								
+									
+									<td class="">55,200</td>
+									
+								
+									
+									<td class="">54,720</td>
+									
+								
+									
+									<td class="">54,720</td>
+									
+								
+									
+									<td class="">55,380</td>
+									
+								
+									
+									<td class="">55,380</td>
+									
+								
+									
+									<td class="">55,980</td>
+									
+								
+									
+									<td class="">55,580</td>
+									
+								
+									
+									<td class="">55,580</td>
+									
+								
+									
+									<td class="">55,180</td>
+									
+								
+									
+									<td class="">55,180</td>
+									
+								
+									
+									<td class="">55,380</td>
+									
+								
+									
+									<td class="">56,980</td>
+									
+								
+									
+									<td class="">57,780</td>
+									
+								
+									
+									<td class="">57,780</td>
+									
+								
+									
+									<td class="">57,580</td>
+									
+								
+									
+									<td class="">57,580</td>
+									
+								
+									
+									<td class="">56,980</td>
+									
+								
+									
+									<td class="">56,980</td>
+									
+								
+									
+									<td class="">56,980</td>
+									
+								
+									
+									<td class="">56,980</td>
+									
+								
+									
+									<td class="">56,780</td>
+									
+								
+									
+									<td class="">61,900</td>
+									
+								
+									
+									<td class="">64,100</td>
+									
+								
+									
+									<td class="">65,640</td>
+									
+								
+									
+									<td class="">66,440</td>
+									
+								
+									
+									<td class="">67,440</td>
+									
+								
+									
+									<td class="">68,240</td>
+									
+								
+									
+									<td class="">66,900</td>
+									
+								
+									
+									<td class="">67,780</td>
+									
+								
+									
+									<td class="">68,180</td>
+									
+								
+									
+									<td class="">69,700</td>
+									
+								
+									
+									<td class="">70,500</td>
+									
+								
+									
+									<td class="">69,700</td>
+									
+								
+									
+									<td class="">69,100</td>
+									
+								
+									
+									<td class="">65,980</td>
+									
+								
+									
+									<td class="">66,980</td>
+									
+								
+									
+									<td class="">67,380</td>
+									
+								
+									
+									<td class="">68,180</td>
+									
+								
+									
+									<td class="">67,580</td>
+									
+								
+									
+									<td class="">67,180</td>
+									
+								
+									
+									<td class="">63,980</td>
+									
+								
+									
+									<td class="">57,900</td>
+									
+								
+									
+									<td class="">50,040</td>
+									
+								
+									
+									<td class="">42,580</td>
+									
+								
+									
+									<td class="">41,100</td>
+									
+								
+									
+									<td class="">40,380</td>
+									
+								
+									
+									<td class="">40,680</td>
+									
+								
+									
+									<td class="">40,480</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">43,040</td>
+									
+								
+									
+									<td class="">41,240</td>
+									
+								
+									
+									<td class="">40,840</td>
+									
+								
+									
+									<td class="">41,640</td>
+									
+								
+									
+									<td class="">41,340</td>
+									
+								
+									
+									<td class="">41,740</td>
+									
+								
+									
+									<td class="">43,140</td>
+									
+								
+									
+									<td class="">42,740</td>
+									
+								
+									
+									<td class="">42,180</td>
+									
+								
+									
+									<td class="">41,980</td>
+									
+								
+									
+									<td class="">41,780</td>
+									
+								
+									
+									<td class="">39,180</td>
+									
+								
+									
+									<td class="">40,580</td>
+									
+								
+									
+									<td class="">41,700</td>
+									
+								
+									
+									<td class="">42,100</td>
+									
+								
+									
+									<td class="">39,500</td>
+									
+								
+									
+									<td class="">36,980</td>
+									
+								
+									
+									<td class="">35,440</td>
+									
+								
+									
+									<td class="">34,840</td>
+									
+								
+									
+									<td class="">32,080</td>
+									
+								
+									
+									<td class="">31,780</td>
+									
+								
+									
+									<td class="">31,980</td>
+									
+								
+									
+									<td class="">31,980</td>
+									
+								
+									
+									<td class="">33,940</td>
+									
+								
+									
+									<td class="">32,080</td>
+									
+								
+									
+									<td class="">32,680</td>
+									
+								
+									
+									<td class="">34,440</td>
+									
+								
+									
+									<td class="">32,720</td>
+									
+								
+									
+									<td class="">31,920</td>
+									
+								
+									
+									<td class="">31,520</td>
+									
+								
+									
+									<td class="">31,920</td>
+									
+								
+									
+									<td class="">32,120</td>
+									
+								
+									
+									<td class="">33,120</td>
+									
+								
+									
+									<td class="">33,920</td>
+									
+								
+									
+									<td class="">33,920</td>
+									
+								
+									
+									<td class="">33,720</td>
+									
+								
+									
+									<td class="">34,520</td>
+									
+								
+									
+									<td class="">34,720</td>
+									
+								
+									
+									<td class="">34,520</td>
+									
+								
+									
+									<td class="">34,920</td>
+									
+								
+									
+									<td class="">35,320</td>
+									
+								
+									
+									<td class="">35,720</td>
+									
+								
+									
+									<td class="">36,720</td>
+									
+								
+									
+									<td class="">35,520</td>
+									
+								
+									
+									<td class="">35,320</td>
+									
+								
+									
+									<td class="">35,320</td>
+									
+								
+									
+									<td class="">35,720</td>
+									
+								
+									
+									<td class="">35,920</td>
+									
+								
+									
+									<td class="">34,720</td>
+									
+								
+									
+									<td class="">36,320</td>
+									
+								
+									
+									<td class="">36,520</td>
+									
+								
+									
+									<td class="">36,320</td>
+									
+								
+									
+									<td class="">35,920</td>
+									
+								
+									
+									<td class="">36,520</td>
+									
+								
+									
+									<td class="">36,120</td>
+									
+								
+									
+									<td class="">37,320</td>
+									
+								
+									
+									<td class="">37,320</td>
+									
+								
+									
+									<td class="">36,120</td>
+									
+								
+									
+									<td class="">36,320</td>
+									
+								
+									
+									<td class="">36,520</td>
+									
+								
+									
+									<td class="">36,320</td>
+									
+								
+									
+									<td class="">36,920</td>
+									
+								
+									
+									<td class="">37,720</td>
+									
+								
+									
+									<td class="">37,920</td>
+									
+								
+									
+									<td class="">37,520</td>
+									
+								
+									
+									<td class="">37,720</td>
+									
+								
+									
+									<td class="">38,120</td>
+									
+								
+									
+									<td class="">37,720</td>
+									
+								
+									
+									<td class="">37,720</td>
+									
+								
+									
+									<td class="">37,720</td>
+									
+								
+									
+									<td class="">39,420</td>
+									
+								
+									
+									<td class="">39,420</td>
+									
+								
+									
+									<td class="">39,820</td>
+									
+								
+									
+									<td class="">39,720</td>
+									
+								
+									
+									<td class="">39,520</td>
+									
+								
+									
+									<td class="">39,520</td>
+									
+								
+									
+									<td class="">39,860</td>
+									
+								
+									
+									<td class="">39,860</td>
+									
+								
+									
+									<td class="">40,460</td>
+									
+								
+									
+									<td class="">40,460</td>
+									
+								
+									
+									<td class="">41,120</td>
+									
+								
+									
+									<td class="">41,120</td>
+									
+								
+									
+									<td class="">41,120</td>
+									
+								
+									
+									<td class="last">41,920</td>
+									
+										</tr>
+									
+								
+									
+										<tr class="fwb">
+											
+												<td class="first cell_tit1" colspan="1">평년</td>
+											
+											
+									
+									<td class="">25,827</td>
+									
+								
+									
+									<td class="">25,933</td>
+									
+								
+									
+									<td class="">26,800</td>
+									
+								
+									
+									<td class="">26,973</td>
+									
+								
+									
+									<td class="">27,147</td>
+									
+								
+									
+									<td class="">27,333</td>
+									
+								
+									
+									<td class="">27,507</td>
+									
+								
+									
+									<td class="">27,940</td>
+									
+								
+									
+									<td class="">27,970</td>
+									
+								
+									
+									<td class="">27,990</td>
+									
+								
+									
+									<td class="">28,033</td>
+									
+								
+									
+									<td class="">28,047</td>
+									
+								
+									
+									<td class="">27,890</td>
+									
+								
+									
+									<td class="">27,830</td>
+									
+								
+									
+									<td class="">27,833</td>
+									
+								
+									
+									<td class="">27,897</td>
+									
+								
+									
+									<td class="">28,263</td>
+									
+								
+									
+									<td class="">28,553</td>
+									
+								
+									
+									<td class="">28,767</td>
+									
+								
+									
+									<td class="">28,817</td>
+									
+								
+									
+									<td class="">29,293</td>
+									
+								
+									
+									<td class="">29,307</td>
+									
+								
+									
+									<td class="">29,267</td>
+									
+								
+									
+									<td class="">29,260</td>
+									
+								
+									
+									<td class="">29,313</td>
+									
+								
+									
+									<td class="">29,210</td>
+									
+								
+									
+									<td class="">29,163</td>
+									
+								
+									
+									<td class="">29,133</td>
+									
+								
+									
+									<td class="">29,060</td>
+									
+								
+									
+									<td class="">28,953</td>
+									
+								
+									
+									<td class="">28,797</td>
+									
+								
+									
+									<td class="">28,783</td>
+									
+								
+									
+									<td class="">28,747</td>
+									
+								
+									
+									<td class="">28,680</td>
+									
+								
+									
+									<td class="">28,640</td>
+									
+								
+									
+									<td class="">28,900</td>
+									
+								
+									
+									<td class="">28,960</td>
+									
+								
+									
+									<td class="">29,100</td>
+									
+								
+									
+									<td class="">29,273</td>
+									
+								
+									
+									<td class="">29,507</td>
+									
+								
+									
+									<td class="">29,587</td>
+									
+								
+									
+									<td class="">29,790</td>
+									
+								
+									
+									<td class="">29,857</td>
+									
+								
+									
+									<td class="">29,907</td>
+									
+								
+									
+									<td class="">29,987</td>
+									
+								
+									
+									<td class="">30,153</td>
+									
+								
+									
+									<td class="">30,167</td>
+									
+								
+									
+									<td class="">30,080</td>
+									
+								
+									
+									<td class="">30,107</td>
+									
+								
+									
+									<td class="">30,227</td>
+									
+								
+									
+									<td class="">30,200</td>
+									
+								
+									
+									<td class="">30,203</td>
+									
+								
+									
+									<td class="">30,283</td>
+									
+								
+									
+									<td class="">30,307</td>
+									
+								
+									
+									<td class="">30,160</td>
+									
+								
+									
+									<td class="">29,900</td>
+									
+								
+									
+									<td class="">29,887</td>
+									
+								
+									
+									<td class="">29,827</td>
+									
+								
+									
+									<td class="">29,733</td>
+									
+								
+									
+									<td class="">29,707</td>
+									
+								
+									
+									<td class="">29,990</td>
+									
+								
+									
+									<td class="">30,203</td>
+									
+								
+									
+									<td class="">30,493</td>
+									
+								
+									
+									<td class="">30,750</td>
+									
+								
+									
+									<td class="">30,870</td>
+									
+								
+									
+									<td class="">31,360</td>
+									
+								
+									
+									<td class="">31,427</td>
+									
+								
+									
+									<td class="">31,427</td>
+									
+								
+									
+									<td class="">31,440</td>
+									
+								
+									
+									<td class="">31,533</td>
+									
+								
+									
+									<td class="">31,570</td>
+									
+								
+									
+									<td class="">31,510</td>
+									
+								
+									
+									<td class="">31,413</td>
+									
+								
+									
+									<td class="">31,427</td>
+									
+								
+									
+									<td class="">31,430</td>
+									
+								
+									
+									<td class="">31,523</td>
+									
+								
+									
+									<td class="">31,613</td>
+									
+								
+									
+									<td class="">31,660</td>
+									
+								
+									
+									<td class="">31,673</td>
+									
+								
+									
+									<td class="">31,877</td>
+									
+								
+									
+									<td class="">31,917</td>
+									
+								
+									
+									<td class="">31,973</td>
+									
+								
+									
+									<td class="">32,690</td>
+									
+								
+									
+									<td class="">32,803</td>
+									
+								
+									
+									<td class="">32,967</td>
+									
+								
+									
+									<td class="">33,207</td>
+									
+								
+									
+									<td class="">33,163</td>
+									
+								
+									
+									<td class="">33,217</td>
+									
+								
+									
+									<td class="">33,240</td>
+									
+								
+									
+									<td class="">33,190</td>
+									
+								
+									
+									<td class="">33,123</td>
+									
+								
+									
+									<td class="">33,363</td>
+									
+								
+									
+									<td class="">33,377</td>
+									
+								
+									
+									<td class="">33,280</td>
+									
+								
+									
+									<td class="">33,227</td>
+									
+								
+									
+									<td class="">33,147</td>
+									
+								
+									
+									<td class="">32,807</td>
+									
+								
+									
+									<td class="">32,687</td>
+									
+								
+									
+									<td class="">32,480</td>
+									
+								
+									
+									<td class="">32,310</td>
+									
+								
+									
+									<td class="">32,097</td>
+									
+								
+									
+									<td class="">31,710</td>
+									
+								
+									
+									<td class="">31,670</td>
+									
+								
+									
+									<td class="">31,687</td>
+									
+								
+									
+									<td class="">31,640</td>
+									
+								
+									
+									<td class="">31,700</td>
+									
+								
+									
+									<td class="">31,807</td>
+									
+								
+									
+									<td class="">31,860</td>
+									
+								
+									
+									<td class="">32,013</td>
+									
+								
+									
+									<td class="">32,193</td>
+									
+								
+									
+									<td class="">32,327</td>
+									
+								
+									
+									<td class="">32,863</td>
+									
+								
+									
+									<td class="">33,103</td>
+									
+								
+									
+									<td class="">33,547</td>
+									
+								
+									
+									<td class="">34,073</td>
+									
+								
+									
+									<td class="">34,460</td>
+									
+								
+									
+									<td class="">34,117</td>
+									
+								
+									
+									<td class="">34,250</td>
+									
+								
+									
+									<td class="">33,973</td>
+									
+								
+									
+									<td class="">33,650</td>
+									
+								
+									
+									<td class="">33,450</td>
+									
+								
+									
+									<td class="">33,317</td>
+									
+								
+									
+									<td class="">33,623</td>
+									
+								
+									
+									<td class="">33,680</td>
+									
+								
+									
+									<td class="">33,533</td>
+									
+								
+									
+									<td class="">33,587</td>
+									
+								
+									
+									<td class="">33,883</td>
+									
+								
+									
+									<td class="">33,897</td>
+									
+								
+									
+									<td class="">33,927</td>
+									
+								
+									
+									<td class="">34,007</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">33,807</td>
+									
+								
+									
+									<td class="">33,513</td>
+									
+								
+									
+									<td class="">33,190</td>
+									
+								
+									
+									<td class="">32,763</td>
+									
+								
+									
+									<td class="">32,373</td>
+									
+								
+									
+									<td class="">31,667</td>
+									
+								
+									
+									<td class="">31,720</td>
+									
+								
+									
+									<td class="">31,707</td>
+									
+								
+									
+									<td class="">31,667</td>
+									
+								
+									
+									<td class="">31,790</td>
+									
+								
+									
+									<td class="">32,437</td>
+									
+								
+									
+									<td class="">32,760</td>
+									
+								
+									
+									<td class="">32,953</td>
+									
+								
+									
+									<td class="">33,290</td>
+									
+								
+									
+									<td class="">33,417</td>
+									
+								
+									
+									<td class="">33,493</td>
+									
+								
+									
+									<td class="">33,307</td>
+									
+								
+									
+									<td class="">33,140</td>
+									
+								
+									
+									<td class="">32,683</td>
+									
+								
+									
+									<td class="">32,360</td>
+									
+								
+									
+									<td class="">32,337</td>
+									
+								
+									
+									<td class="">32,177</td>
+									
+								
+									
+									<td class="">32,123</td>
+									
+								
+									
+									<td class="">32,123</td>
+									
+								
+									
+									<td class="">32,163</td>
+									
+								
+									
+									<td class="">31,860</td>
+									
+								
+									
+									<td class="">31,637</td>
+									
+								
+									
+									<td class="">31,457</td>
+									
+								
+									
+									<td class="">31,353</td>
+									
+								
+									
+									<td class="">30,907</td>
+									
+								
+									
+									<td class="">30,707</td>
+									
+								
+									
+									<td class="">30,703</td>
+									
+								
+									
+									<td class="">30,663</td>
+									
+								
+									
+									<td class="">30,453</td>
+									
+								
+									
+									<td class="">29,870</td>
+									
+								
+									
+									<td class="">29,857</td>
+									
+								
+									
+									<td class="">29,850</td>
+									
+								
+									
+									<td class="">29,910</td>
+									
+								
+									
+									<td class="">29,913</td>
+									
+								
+									
+									<td class="">29,787</td>
+									
+								
+									
+									<td class="">29,587</td>
+									
+								
+									
+									<td class="">29,497</td>
+									
+								
+									
+									<td class="">29,430</td>
+									
+								
+									
+									<td class="">29,427</td>
+									
+								
+									
+									<td class="">28,713</td>
+									
+								
+									
+									<td class="">28,447</td>
+									
+								
+									
+									<td class="">28,190</td>
+									
+								
+									
+									<td class="">28,057</td>
+									
+								
+									
+									<td class="">27,887</td>
+									
+								
+									
+									<td class="">27,253</td>
+									
+								
+									
+									<td class="">27,107</td>
+									
+								
+									
+									<td class="">27,007</td>
+									
+								
+									
+									<td class="">27,090</td>
+									
+								
+									
+									<td class="">26,950</td>
+									
+								
+									
+									<td class="">26,403</td>
+									
+								
+									
+									<td class="">26,323</td>
+									
+								
+									
+									<td class="">26,237</td>
+									
+								
+									
+									<td class="">26,263</td>
+									
+								
+									
+									<td class="">26,203</td>
+									
+								
+									
+									<td class="">26,123</td>
+									
+								
+									
+									<td class="">25,957</td>
+									
+								
+									
+									<td class="">25,877</td>
+									
+								
+									
+									<td class="">25,733</td>
+									
+								
+									
+									<td class="">25,747</td>
+									
+								
+									
+									<td class="">25,747</td>
+									
+								
+									
+									<td class="">25,667</td>
+									
+								
+									
+									<td class="">25,707</td>
+									
+								
+									
+									<td class="">25,667</td>
+									
+								
+									
+									<td class="">25,533</td>
+									
+								
+									
+									<td class="">25,333</td>
+									
+								
+									
+									<td class="">25,170</td>
+									
+								
+									
+									<td class="">25,130</td>
+									
+								
+									
+									<td class="">25,093</td>
+									
+								
+									
+									<td class="">25,007</td>
+									
+								
+									
+									<td class="">24,993</td>
+									
+								
+									
+									<td class="">25,057</td>
+									
+								
+									
+									<td class="">25,097</td>
+									
+								
+									
+									<td class="">25,133</td>
+									
+								
+									
+									<td class="">25,180</td>
+									
+								
+									
+									<td class="">25,260</td>
+									
+								
+									
+									<td class="">25,350</td>
+									
+								
+									
+									<td class="">25,310</td>
+									
+								
+									
+									<td class="">25,265</td>
+									
+								
+									
+									<td class="">25,252</td>
+									
+								
+									
+									<td class="">25,193</td>
+									
+								
+									
+									<td class="">24,953</td>
+									
+								
+									
+									<td class="">24,873</td>
+									
+								
+									
+									<td class="">24,807</td>
+									
+								
+									
+									<td class="">24,800</td>
+									
+								
+									
+									<td class="">24,807</td>
+									
+								
+									
+									<td class="">24,967</td>
+									
+								
+									
+									<td class="">25,167</td>
+									
+								
+									
+									<td class="">25,260</td>
+									
+								
+									
+									<td class="">25,247</td>
+									
+								
+									
+									<td class="">25,373</td>
+									
+								
+									
+									<td class="">25,947</td>
+									
+								
+									
+									<td class="">25,997</td>
+									
+								
+									
+									<td class="">26,063</td>
+									
+								
+									
+									<td class="">26,130</td>
+									
+								
+									
+									<td class="">26,193</td>
+									
+								
+									
+									<td class="">26,207</td>
+									
+								
+									
+									<td class="">26,197</td>
+									
+								
+									
+									<td class="">26,170</td>
+									
+								
+									
+									<td class="">26,147</td>
+									
+								
+									
+									<td class="">26,133</td>
+									
+								
+									
+									<td class="">26,133</td>
+									
+								
+									
+									<td class="">26,110</td>
+									
+								
+									
+									<td class="">26,083</td>
+									
+								
+									
+									<td class="">26,107</td>
+									
+								
+									
+									<td class="">26,183</td>
+									
+								
+									
+									<td class="">26,170</td>
+									
+								
+									
+									<td class="">26,140</td>
+									
+								
+									
+									<td class="">26,140</td>
+									
+								
+									
+									<td class="">26,493</td>
+									
+								
+									
+									<td class="">26,600</td>
+									
+								
+									
+									<td class="">27,008</td>
+									
+								
+									
+									<td class="last">27,093</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">서울</td>
+												
+												
+											
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">62,000</td>
+									
+								
+									
+									<td class="">62,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">66,000</td>
+									
+								
+									
+									<td class="">72,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">66,000</td>
+									
+								
+									
+									<td class="">66,000</td>
+									
+								
+									
+									<td class="">66,000</td>
+									
+								
+									
+									<td class="">64,300</td>
+									
+								
+									
+									<td class="">66,000</td>
+									
+								
+									
+									<td class="">66,000</td>
+									
+								
+									
+									<td class="">70,600</td>
+									
+								
+									
+									<td class="">70,600</td>
+									
+								
+									
+									<td class="">70,600</td>
+									
+								
+									
+									<td class="">70,600</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">65,000</td>
+									
+								
+									
+									<td class="">65,000</td>
+									
+								
+									
+									<td class="">65,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">51,300</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">41,600</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">44,600</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">43,600</td>
+									
+								
+									
+									<td class="">43,600</td>
+									
+								
+									
+									<td class="">37,600</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">33,300</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="last">42,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">부산</td>
+												
+												
+											
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">29,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">56,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">57,300</td>
+									
+								
+									
+									<td class="">61,300</td>
+									
+								
+									
+									<td class="">61,300</td>
+									
+								
+									
+									<td class="">63,300</td>
+									
+								
+									
+									<td class="">64,300</td>
+									
+								
+									
+									<td class="">65,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">63,300</td>
+									
+								
+									
+									<td class="">59,300</td>
+									
+								
+									
+									<td class="">50,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="last">41,000</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">대구</td>
+												
+												
+											
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">24,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">60,600</td>
+									
+								
+									
+									<td class="">60,600</td>
+									
+								
+									
+									<td class="">65,300</td>
+									
+								
+									
+									<td class="">66,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">66,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">63,300</td>
+									
+								
+									
+									<td class="">58,300</td>
+									
+								
+									
+									<td class="">49,300</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">43,300</td>
+									
+								
+									
+									<td class="">43,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">42,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">33,300</td>
+									
+								
+									
+									<td class="">31,300</td>
+									
+								
+									
+									<td class="">30,300</td>
+									
+								
+									
+									<td class="">30,300</td>
+									
+								
+									
+									<td class="">30,300</td>
+									
+								
+									
+									<td class="">30,300</td>
+									
+								
+									
+									<td class="">30,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">40,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="last">42,300</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">광주</td>
+												
+												
+											
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">-</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">49,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">48,000</td>
+									
+								
+									
+									<td class="">50,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">54,600</td>
+									
+								
+									
+									<td class="">54,600</td>
+									
+								
+									
+									<td class="">55,600</td>
+									
+								
+									
+									<td class="">55,600</td>
+									
+								
+									
+									<td class="">56,600</td>
+									
+								
+									
+									<td class="">55,600</td>
+									
+								
+									
+									<td class="">55,600</td>
+									
+								
+									
+									<td class="">55,600</td>
+									
+								
+									
+									<td class="">55,600</td>
+									
+								
+									
+									<td class="">56,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">58,600</td>
+									
+								
+									
+									<td class="">58,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">57,600</td>
+									
+								
+									
+									<td class="">56,600</td>
+									
+								
+									
+									<td class="">60,600</td>
+									
+								
+									
+									<td class="">63,600</td>
+									
+								
+									
+									<td class="">65,600</td>
+									
+								
+									
+									<td class="">67,600</td>
+									
+								
+									
+									<td class="">68,600</td>
+									
+								
+									
+									<td class="">69,600</td>
+									
+								
+									
+									<td class="">66,600</td>
+									
+								
+									
+									<td class="">65,300</td>
+									
+								
+									
+									<td class="">67,300</td>
+									
+								
+									
+									<td class="">69,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">66,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">70,300</td>
+									
+								
+									
+									<td class="">68,300</td>
+									
+								
+									
+									<td class="">66,300</td>
+									
+								
+									
+									<td class="">64,300</td>
+									
+								
+									
+									<td class="">60,600</td>
+									
+								
+									
+									<td class="">50,600</td>
+									
+								
+									
+									<td class="">45,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">41,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">40,600</td>
+									
+								
+									
+									<td class="">41,600</td>
+									
+								
+									
+									<td class="">43,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">40,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">41,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">43,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">41,600</td>
+									
+								
+									
+									<td class="">40,600</td>
+									
+								
+									
+									<td class="">40,600</td>
+									
+								
+									
+									<td class="">38,600</td>
+									
+								
+									
+									<td class="">40,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">42,600</td>
+									
+								
+									
+									<td class="">40,600</td>
+									
+								
+									
+									<td class="">37,600</td>
+									
+								
+									
+									<td class="">35,600</td>
+									
+								
+									
+									<td class="">34,600</td>
+									
+								
+									
+									<td class="">32,600</td>
+									
+								
+									
+									<td class="">31,600</td>
+									
+								
+									
+									<td class="">31,600</td>
+									
+								
+									
+									<td class="">31,600</td>
+									
+								
+									
+									<td class="">34,600</td>
+									
+								
+									
+									<td class="">32,600</td>
+									
+								
+									
+									<td class="">32,600</td>
+									
+								
+									
+									<td class="">32,600</td>
+									
+								
+									
+									<td class="">31,300</td>
+									
+								
+									
+									<td class="">30,300</td>
+									
+								
+									
+									<td class="">29,300</td>
+									
+								
+									
+									<td class="">31,300</td>
+									
+								
+									
+									<td class="">31,300</td>
+									
+								
+									
+									<td class="">31,300</td>
+									
+								
+									
+									<td class="">33,300</td>
+									
+								
+									
+									<td class="">33,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">33,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">32,300</td>
+									
+								
+									
+									<td class="">33,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">35,300</td>
+									
+								
+									
+									<td class="">34,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">36,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">37,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">39,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">38,300</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="">41,300</td>
+									
+								
+									
+									<td class="last">42,300</td>
+									
+										</tr>
+									
+								
+									
+										<tr>
+											
+											
+												
+													<td class="first cell_tit1" rowspan="1">대전</td>
+												
+												
+											
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,100</td>
+									
+								
+									
+									<td class="">26,100</td>
+									
+								
+									
+									<td class="">26,100</td>
+									
+								
+									
+									<td class="">26,100</td>
+									
+								
+									
+									<td class="">26,100</td>
+									
+								
+									
+									<td class="">26,100</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">26,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">28,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">25,000</td>
+									
+								
+									
+									<td class="">27,000</td>
+									
+								
+									
+									<td class="">29,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">45,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">47,000</td>
+									
+								
+									
+									<td class="">44,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">46,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">53,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">62,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">62,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">59,000</td>
+									
+								
+									
+									<td class="">58,000</td>
+									
+								
+									
+									<td class="">57,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">54,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">55,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">56,000</td>
+									
+								
+									
+									<td class="">61,000</td>
+									
+								
+									
+									<td class="">63,000</td>
+									
+								
+									
+									<td class="">64,000</td>
+									
+								
+									
+									<td class="">68,000</td>
+									
+								
+									
+									<td class="">69,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">73,000</td>
+									
+								
+									
+									<td class="">71,000</td>
+									
+								
+									
+									<td class="">71,000</td>
+									
+								
+									
+									<td class="">67,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">70,000</td>
+									
+								
+									
+									<td class="">69,000</td>
+									
+								
+									
+									<td class="">69,000</td>
+									
+								
+									
+									<td class="">68,000</td>
+									
+								
+									
+									<td class="">60,000</td>
+									
+								
+									
+									<td class="">52,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,500</td>
+									
+								
+									
+									<td class="">38,500</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">41,000</td>
+									
+								
+									
+									<td class="">42,500</td>
+									
+								
+									
+									<td class="">43,500</td>
+									
+								
+									
+									<td class="">44,500</td>
+									
+								
+									
+									<td class="">43,500</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">43,000</td>
+									
+								
+									
+									<td class="">42,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">32,500</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">34,500</td>
+									
+								
+									
+									<td class="">33,500</td>
+									
+								
+									
+									<td class="">33,500</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">30,000</td>
+									
+								
+									
+									<td class="">31,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">32,000</td>
+									
+								
+									
+									<td class="">33,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">34,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">35,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">36,000</td>
+									
+								
+									
+									<td class="">37,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">38,000</td>
+									
+								
+									
+									<td class="">39,500</td>
+									
+								
+									
+									<td class="">39,500</td>
+									
+								
+									
+									<td class="">39,500</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">39,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="">40,000</td>
+									
+								
+									
+									<td class="last">42,000</td>
+									
+										</tr>
+									
+								
+								
+								
+						</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
