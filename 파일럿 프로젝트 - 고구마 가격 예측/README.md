@@ -33,4 +33,4 @@
 
 ### 데이터 분석
 * 전체 고구마 가격 변동 그래프
-<img width = "80%", src = "https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/전체%20고구마%20가격%20변동.png"/>
+<img src = "https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/전체%20고구마%20가격%20변동.png" width = "80%"/>
