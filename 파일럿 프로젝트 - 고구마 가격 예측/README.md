@@ -27,6 +27,10 @@
 	* 컬럼명 수정
 	* 첫 행 제거 후, 인덱스 초기화
 	* datetime 타입으로 변환하기 위해, year, month, day 컬럼 생성 및 사용해서 일시 컬럼의 데이터 타입을 datetime으로 변환
-	* 고구마 데이터 전체를 전처리 한 후 하나의 데이터 프레임으로 병합
+	* 고구마 데이터 전체를 전처리 한 후 하나의 데이터 프레임으로 병합하여 [sweet_potato_price.csv](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CSV/고구마%20가격/sweet_potato_price.csv) 파일 생성
 * 최종 데이터
-	* 기상 데이터와 고구마 가격 데이터를 일시(날짜) 기준으로 병합하여 [result.csv]() 파일 생성
+	* 기상 데이터와 고구마 가격 데이터를 일시(날짜) 기준으로 병합하여 [result.csv](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CSV/result.csv) 파일 생성
+
+### 데이터 분석
+* 전체 고구마 가격 변동 그래프
+<img width = "80%", src = "https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/전체%20고구마%20가격%20변동.png"/>
