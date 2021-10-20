@@ -14,7 +14,7 @@
 	* 데이터 출처 : [기상자료개방포털](https://data.kma.go.kr/cmmn/main.do)
 	* 평균기온, 최저기온, 최고기온, 강수량, 풍속, 습도 등 다양한 기상 데이터 수집
 
-### 데이터 전처리 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/01_data_preprocessing.ipynb)
+### 데이터 전처리 | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/01_data_preprocessing.ipynb)
 * 기상 데이터
 	* 컬럼명 변경
 	* 결측치 확인 후, 일시(날짜) 기준으로 결측치 제거
@@ -31,13 +31,13 @@
 * 최종 데이터
 	* 기상 데이터와 고구마 가격 데이터를 일시(날짜) 기준으로 병합하여 [result.csv](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CSV/result.csv) 파일 생성
 
-### 데이터 분석 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/02_data_analysis.ipynb)
+### 데이터 분석 | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/02_data_analysis.ipynb)
 * 전체 고구마 가격 변동 그래프
 <img src = "https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/전체%20고구마%20가격%20변동.png" width = "80%"/>
 * 연도별 고구마 가격 비교
 <img src = "https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/연도별%20고구마%20가격%20비교.png" width = "80%"/>
 
-### 머신러닝 모델 구축 [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/03_machine_learning_model.ipynb)
+### 머신러닝 모델 구축 | [코드](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/03_machine_learning_model.ipynb)
 * [머신러닝 모델 정확도](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png)
 <img src = "https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png" width = "60%"/>
 * [머신러닝 모델 교차 검증](https://github.com/city1616/LikeLion_13th_DataCourse/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20교차%20검증.png)
