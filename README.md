@@ -1,4 +1,4 @@
-## [LikeLion AI SCHOOL 13th](https://city1616.github.io/LikeLion_13th_DataCourse/)
+## [LikeLion AI SCHOOL 13th](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/)
 
 ### 01. 파이썬 기본
 
