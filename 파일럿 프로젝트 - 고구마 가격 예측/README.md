@@ -40,6 +40,13 @@
 ### 5. 머신러닝 모델 구축  |  [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/03_machine_learning_model.ipynb)
 * [머신러닝 모델 정확도](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png)
 <!-- <img src = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png" width = "60%"/> -->
+| MODEL | 학습용 정확도 | 테스트용 정확도|
+| ----- | ---------- | ---------- |
+| Linear Regression | 0.1393813353466936 | 0.1584190703818502 |
+| Decision Tree | 1.0 | -0.5502246003715252 |
+| Random Forest | 0.8811338468470196 | 0.16022258766236408 |
+| Ridge | 0.13938133298459965 | 0.1584204578855346 |
+| Lasso | 0.13937825724806652 | 0.15846678711731566 |
 
 * [머신러닝 모델 교차 검증](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20교차%20검증.png)
 <!-- <img src = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20교차%20검증.png" width = "60%"/> -->
