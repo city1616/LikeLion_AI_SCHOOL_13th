@@ -39,10 +39,10 @@
 
 ### 5. 머신러닝 모델 구축  |  [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/CODE/03_machine_learning_model.ipynb)
 * [머신러닝 모델 정확도](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png)
-<img src = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png" width = "60%"/> 
+<!-- <img src = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20정확도.png" width = "60%"/> -->
 
 * [머신러닝 모델 교차 검증](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20교차%20검증.png)
-<img src = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20교차%20검증.png" width = "60%"/>
+<!-- <img src = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/파일럿%20프로젝트%20-%20고구마%20가격%20예측/PNG/머신러닝%20모델%20교차%20검증.png" width = "60%"/> -->
 
 ### 6. 향후 계획
 * 구축한 머신러닝 모델의 정확도가 다소 떨어지는 모습을 보이고 있어서, 날씨 이외에 추가로 고구마 가격에 영향을 주는 데이터를 수집하고 전처리, 분석, 머신러닝 모델 생성 과정을 반복해서 모델의 정확도가 향상될 수 있도록 추가 분석할 계획이다.
