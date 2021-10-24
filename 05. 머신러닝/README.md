@@ -19,7 +19,7 @@
 
 ### Unsupervised Learning(비지도 학습)
 
-1. Clustering Kmeans
-2. DBSCAN
+1. Clustering Kmeans [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/03.%20Unsupervised%20Learning/01_Clustering_Kmeans.ipynb)
+2. DBSCAN [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/03.%20Unsupervised%20Learning/02_DBSCAN.ipynb)
 
 ### Model Evaluation(모델 평가)
