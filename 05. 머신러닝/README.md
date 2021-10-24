@@ -2,7 +2,7 @@
 
 ### Supervised Learning(지도 학습)
 
-1. KNN [코드]()
+1. KNN [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/01.%20Supervised%20Learning/01_KNN.ipynb)
 2. Linear Regression(선형 회귀) [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/01.%20Supervised%20Learning/02_Linear_Regression_Basic.ipynb)
 3. Ridge, Lasso [코드]()
 4. Decision Tree [코드1](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/01.%20Supervised%20Learning/04_Decision_Tree_Basic.ipynb) | [코드2](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/01.%20Supervised%20Learning/05_Decision_Tree_Basic.ipynb)
