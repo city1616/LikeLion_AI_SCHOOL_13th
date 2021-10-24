@@ -23,3 +23,7 @@
 2. DBSCAN [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/03.%20Unsupervised%20Learning/02_DBSCAN.ipynb)
 
 ### Model Evaluation(모델 평가)
+
+1. Cross-Validation [코드1]() | [코드2]() 
+2. LOOCV [코드]()
+3. 평가지표 [코드]()
