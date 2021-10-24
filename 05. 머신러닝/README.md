@@ -12,6 +12,11 @@
 
 ### Data Preprocessing(데이터 전처리)
 
+1. Data Preprocessing
+2. Label Encoding and One Hot Encoding
+3. One Hot Encoding
+4. Feature Engineering
+
 ### Unsupervised Learning(비지도 학습)
 
 ### Model Evaluation(모델 평가)
