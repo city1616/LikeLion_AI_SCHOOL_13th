@@ -12,10 +12,10 @@
 
 ### Data Preprocessing(데이터 전처리)
 
-1. Data Preprocessing [코드]()
-2. Label Encoding and One Hot Encoding [코드]()
-3. One Hot Encoding [코드]()
-4. Feature Engineering [코드]()
+1. Data Preprocessing [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/02.%20Data%20Preprocessing/01_Data_Preprocessing.ipynb)
+2. Label Encoding and One Hot Encoding [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/02.%20Data%20Preprocessing/02_Label_Encoding_One_Hot_Encoding.ipynb)
+3. One Hot Encoding [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/02.%20Data%20Preprocessing/03_One_Hot_Encoding.ipynb)
+4. Feature Engineering [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/02.%20Data%20Preprocessing/04_Feature_Engineering.ipynb)
 
 ### Unsupervised Learning(비지도 학습)
 
