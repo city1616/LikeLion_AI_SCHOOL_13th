@@ -24,6 +24,6 @@
 
 ### Model Evaluation(모델 평가)
 
-1. Cross-Validation [코드1]() | [코드2]() 
-2. LOOCV [코드]()
-3. 평가지표 [코드]()
+1. Cross-Validation [코드1](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/04.%20Model%20Evaluation/01_Cross_validation_1.ipynb) | [코드2](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/04.%20Model%20Evaluation/02_Cross_validation_2.ipynb) 
+2. LOOCV [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/04.%20Model%20Evaluation/03_LOOCV.ipynb)
+3. 평가지표 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/05.%20머신러닝/04.%20Model%20Evaluation/04_confusion_matrix(평가지표).ipynb)
