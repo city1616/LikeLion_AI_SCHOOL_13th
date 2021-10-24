@@ -1,4 +1,6 @@
-### WEB DATA 수집 실습
+### 웹 데이터 수집하기
+
+### BeautifulSoup
 1. BeautifulSoup 실습 [코드 1](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/04_bs_basic.py) | [코드 2](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/05_bs_basic.py)
 2. KOSPI 정보 가져온 후 CSV 파일 생성 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/06_stock_get.py)
 3. KOSDAQ 정보 가져온 후 CSV 파일 생성 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/07_kosdaq.py)
@@ -10,3 +12,5 @@
 9. selenium basic 실습 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/16_selenium_basic.ipynb)
 10. selenium naver.com 페이지 띄우고, 검색, 정보 확인하기 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/17_selenium_naver.ipynb)
 11. selenium amazon.com 아이템 페이지 정보 넘겨받고, 두 페이지 리뷰 모두 가져오기 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/18_selenium_amazon_item_review.ipynb)
+
+### Selenium
