@@ -3,7 +3,7 @@
 ### BeautifulSoup
 1. BeautifulSoup 실습 [코드 1](04_bs_basic.py) | [코드 2](05_bs_basic.py)
 2. KOSPI 정보 가져온 후 CSV 파일 생성 [코드](06_stock_get.py)
-3. KOSDAQ 정보 가져온 후 CSV 파일 생성 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/07_kosdaq.py)
+3. KOSDAQ 정보 가져온 후 CSV 파일 생성 [코드](07_kosdaq.py)
 4. NAVER MOVIE 현재 상영작 제목, 평점, 참여명수, 예매율, 개요 가져온 후 CSV 파일 생성 [코드 1](08_movie_info.py) | [코드 2](09_naver_movie_01.py)
 5. NAVER MOVIE 스파이더맨: 뉴 유니버스 1 페이지 댓글 가져온 후 CSV 파일 생성 [코드](10_naver_movie_comment_single_page.py)
 6. NAVER MOVIE 스파이더맨: 뉴 유니버스 1 ~ 5 페이지 댓글 가져온 후 CSV 파일 생성 [코드](11_naver_movie_comment_multi_page.py)
