@@ -4,7 +4,7 @@
 1. BeautifulSoup 실습 [코드 1]() | [코드 2]()
 2. KOSPI 정보 가져온 후 CSV 파일 생성 [코드]()
 3. KOSDAQ 정보 가져온 후 CSV 파일 생성 [코드]()
-4. NAVER MOVIE 현재 상영작 제목, 평점, 참여명수, 예매율, 개요 가져온 후 CSV 파일 생성 [코드 1](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/08_movie_info.py) | [코드 2]()
+4. NAVER MOVIE 현재 상영작 제목, 평점, 참여명수, 예매율, 개요 가져온 후 CSV 파일 생성 [코드 1]() | [코드 2]()
 5. NAVER MOVIE 스파이더맨: 뉴 유니버스 1 페이지 댓글 가져온 후 CSV 파일 생성 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/10_naver_movie_comment_single_page.py)
 6. NAVER MOVIE 스파이더맨: 뉴 유니버스 1 ~ 5 페이지 댓글 가져온 후 CSV 파일 생성 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/11_naver_movie_comment_multi_page.py)
 7. 텍스트 시각화, Wordcloud [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/12_text_vis.py)
