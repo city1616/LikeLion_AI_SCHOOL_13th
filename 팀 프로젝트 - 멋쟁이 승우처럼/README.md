@@ -2,6 +2,12 @@
 
 ### 팀원 : 문승우, 정진우, 오소영, 강수정
 
+### 기술스택
+- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)
+	- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
+	- 비지도학습 : K-means, PCA 등
+	- 시각화 라이브러리 : matplotlib, seaborn
+
 ### 1. 목표 및 개요
 한국가스공사의 시간단위 공급량 내부데이터와 기상정보 및 가스외 발전량 등 외부데이터를 포함한 데이터셋을 구축하여 90일 한도 일간 공급량을 예측하는 인공지능 모델을 개발한다.
 
