@@ -2,12 +2,6 @@
 
 ### 팀원 : 문승우, 정진우, 오소영, 강수정
 
-### 기술스택
-- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)
-	- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
-	- 비지도학습 : K-means, PCA 등
-- 시각화 라이브러리 : matplotlib, seaborn
-
 ### 1. 프로젝트 목표
 - 지금까지 배운 내용을 토대로 실전 분석 대회에 참여하여 팀원 전체의 실전 역량을 향상시킨다.
 - 데이터 시각화를 통해 데이터의 특징점을 찾아 데이터를 한눈에 확인할 수 있도록 분석한다.
@@ -27,6 +21,12 @@
 ### 5. 머신러닝 모델 구축
 
 ### 6. 향후 계획 
+
+### 기술스택
+- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)
+	- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
+	- 비지도학습 : K-means, PCA 등
+- 시각화 라이브러리 : matplotlib, seaborn
 
 <!--
 1. 주제
