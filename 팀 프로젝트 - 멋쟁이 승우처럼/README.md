@@ -44,7 +44,6 @@
 	- 모델별 캐글 점수 
 5. 결론
 
-
 X = train[["year", "month", "day", "hour", "weekday", "구분_int", "기온(°C)"]]
 y = train["공급량"]
 GridSearchCV 최적 파라미터 :  {'learning_rate': 0.01, 'max_depth': 12, 'n_estimators': 2000}
