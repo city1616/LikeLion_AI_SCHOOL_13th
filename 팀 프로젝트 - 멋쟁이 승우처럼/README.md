@@ -24,7 +24,7 @@
 ### 5. 머신러닝 모델 구축
 
 ### 6. 향후 계획 
- 
+  
 ### 기술스택
 - 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)
 	- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
