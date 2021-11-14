@@ -21,7 +21,7 @@
 ### 5. 머신러닝 모델 구축
 * lightgbm
 * xgboost
-
+* Deep Learning
 
 ### 6. 향후 계획  
   
