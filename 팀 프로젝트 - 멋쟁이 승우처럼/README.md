@@ -31,11 +31,15 @@
 	* 구분별 공급량 분포
 	* 예측 대상 일자(년월일시) 확인
 	* 예측한 기온 확인(2019년 월평균 기온)
-	
+
 ### 5. 머신러닝 모델 구축
-* lightgbm
-* xgboost
-* Deep Learning
+* 공급량 예측 모델(기온 데이터 제외)
+	* LinearRegression
+	* DecisionTreeRegressor
+	* RandomForestRegressor
+	* GradientBoostingRegressor
+	* XGBRegressor
+	* LGBMRegressor
 
 ### 6. 향후 계획  
   
