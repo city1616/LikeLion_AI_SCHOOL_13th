@@ -1,6 +1,12 @@
 ## [LikeLion AI SCHOOL 13th](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/)
 
 ### [01. 파이썬 기본 문법]()
+1. CODELION
+	* 일단 만드는 PYTHON
+	* [기초] 같이 푸는 PYTHON
+	* [심화] 같이 푸는 PYTHON
+	
+2. PYTHON BASIC
 
 ### 02. 웹과 Github 기본
 
