@@ -1,6 +1,6 @@
 ## [LikeLion AI SCHOOL 13th](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/)
 
-### 01. 파이썬 기본
+### [01. 파이썬 기본 문법]()
 
 ### 02. 웹과 Github 기본
 
