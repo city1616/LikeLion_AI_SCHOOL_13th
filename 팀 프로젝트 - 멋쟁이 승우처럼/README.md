@@ -1,9 +1,26 @@
-## 프로젝트명 : 가스공급량 수요예측 모델개발
+## 프로젝트명 : 가스공급량 수요예측 모델개발(2021.10.15 ~ 2021.11.10)
 
-### 팀원 : 문승우, 정진우, 오소영, 강수정
+### 팀 구성 및역할
+- 문승우 `팀장`
+    > 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
+        >> merging dataset and processing missing value
+        >> feature engineering (using statistics, model)
+        >> evaluate model (using Cross Validation, Grid Search)
+        >> evaluation metrics – by MSE, RMSE, finally evaluated by NMAE
+        >> Cross Validation and Parameter Tuning
+    > 
+- 정진우 `부팀장`
+    - 모델 성능 향상, 발표
+        - compare Machine Learning Model
+        - Cross Validation and Parameter Tuning
+- 오소영 `팀원`
+    - 데이터 시각화, 발표 자료 준비,PPT 자료 정리
+        - Matplotlib, seaborn 등을 활용한 데이터 탐색 및 시각화
+- 강수정 `팀원`
+    - 데이터 탐색 및 수집
 
 ### 1. 프로젝트 목표
-- 지금까지 배운 내용을 토대로 실전 분석 대회([DACON](https://dacon.io/competitions/official/235830/overview/description))에 참여하여 팀원 전체의 실전 역량을 향상시킨다.
+- 지금까지 배운 내용을 토대로 실전 분석 대회([DACON][dacon])에 참여하여 팀원 전체의 실전 역량을 향상시킨다.
 - 데이터 시각화를 통해 데이터의 특징점을 찾아 데이터를 한눈에 확인할 수 있도록 분석한다.
 - 데이터가 의미하는 바를 쉽게 확인할 수 있도록 시각화하여 데이터 활용도를 향상시킨다.
 - 가스 공급량을 예측하는 머신러닝(또는 딥러닝) 모델을 구축 및 평가한다.
@@ -48,6 +65,9 @@
 	- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
 	- 비지도학습 : K-means, PCA 등
 - 시각화 라이브러리 : matplotlib, seaborn
+
+[//]: # ()
+   [dacon]: https://dacon.io/competitions/official/235830/overview/description
 
 <!--
 1. 주제
