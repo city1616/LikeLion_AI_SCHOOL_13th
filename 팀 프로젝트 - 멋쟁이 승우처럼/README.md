@@ -2,20 +2,18 @@
 
 ### 팀 구성 및역할
 
- * 문승우 `팀장` - 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
-    * merging dataset and processing missing value</br>
-    * feature engineering (using statistics, model)</br>
-    * evaluate model (using Cross Validation, Grid Search)</br>
-    * evaluation metrics – by MSE, RMSE, finally evaluated by NMAE</br>
-    * Cross Validation and Parameter Tuning</br>
-    
+* 문승우 `팀장` - 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
+    * merging dataset and processing missing value
+    * feature engineering (using statistics, model)
+    * evaluate model (using Cross Validation, Grid Search)
+    * evaluation metrics – by MSE, RMSE, finally evaluated by NMAE
+    * Cross Validation and Parameter Tuning
 
- * 정진우 `부팀장` - 모델 성능 향상, 발표
+* 정진우 `부팀장` - 모델 성능 향상, 발표
     * compare Machine Learning Model
     * Cross Validation and Parameter Tuning
 
-
- * 오소영 `팀원` - 데이터 시각화, 발표 자료 준비,PPT 자료 정리
+* 오소영 `팀원` - 데이터 시각화, 발표 자료 준비,PPT 자료 정리
     * Matplotlib, seaborn 등을 활용한 데이터 탐색 및 시각화
 
 * 강수정 `팀원` - 데이터 탐색 및 수집
