@@ -1,0 +1,24 @@
+/*
+    2021_09_06_4
+    external CSS example
+*/
+body {
+    background-color: black;
+}
+
+h2 {
+    font-family: 'Jeju Gothic', sans-serif;
+    font-size: 3em;
+    opacity: 0.8;
+    color: white;
+}
+
+ol {
+    font-family: 'Jeju Gothic', sans-serif;
+    opacity: 0.8;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
