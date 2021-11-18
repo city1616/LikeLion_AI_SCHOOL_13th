@@ -141,12 +141,11 @@ Contents
         <tr>
             <td><div>hello</div></td>
             <td>1</td>
-            <td>1</td>
         </tr>
         <tr>
             <td><div align = "center">first commit</div></td>
             <td><div align = "left">- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)</br>- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)</br>- 비지도학습 : K-means, PCA 등</br>- 시각화 라이브러리 : matplotlib, seaborn</div></td>
-            <td><div>first commit</div></td>
+        </tr>
     </table>
 </div>
 
