@@ -1,13 +1,15 @@
 ## 프로젝트명 : 가스공급량 수요예측 모델개발(2021.10.15 ~ 2021.11.10)
 
+<span style="color:red">some **This is Red Bold.** text</span>
+
 ### 팀 구성 및역할
 - 문승우 `팀장`
     > 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
-        >> merging dataset and processing missing value
-        >> feature engineering (using statistics, model)
-        >> evaluate model (using Cross Validation, Grid Search)
-        >> evaluation metrics – by MSE, RMSE, finally evaluated by NMAE
-        >> Cross Validation and Parameter Tuning
+    >> merging dataset and processing missing value
+    >> feature engineering (using statistics, model)
+    >> evaluate model (using Cross Validation, Grid Search)
+    >> evaluation metrics – by MSE, RMSE, finally evaluated by NMAE
+    >> Cross Validation and Parameter Tuning
     > 
 - 정진우 `부팀장`
     - 모델 성능 향상, 발표
@@ -66,7 +68,8 @@
 	- 비지도학습 : K-means, PCA 등
 - 시각화 라이브러리 : matplotlib, seaborn
 
-[//]: # ()
+[//]: # (hello)
+
    [dacon]: https://dacon.io/competitions/official/235830/overview/description
 
 <!--
