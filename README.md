@@ -133,11 +133,8 @@ Contents
         * 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
         * 비지도학습 : K-means
 
-
--->
-
-<div align = "left">
-    <table border = 1 bgcolor = #EEEEEE>
+<div>
+    <table border = 1>
         <tr>
             <td><div>hello</div></td>
             <td>1</td>
@@ -149,7 +146,7 @@ Contents
     </table>
 </div>
 
-
+-->
 
 
 
