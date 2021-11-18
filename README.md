@@ -16,22 +16,22 @@
 05. 머신러닝 [LINK][ML]
 
 ## 프로젝트
-### 1. 팀 프로젝트 - 사자감성 [LINK][Team_Project_01]
+#### 1. 팀 프로젝트 - 사자감성 [LINK][Team_Project_01]
 
 * 주제 : 코로나 확진자와 일상 생활 지표와의 상관관계 분석
 * 기간 : 2021.09.17 ~ 2021.10.08
-* 역할 : `팀장`
+* 역할 : <span style="color:red">`팀장`</span>
     * 데이터 수집 및 전처리
     * 데이터 분석 및 시각화
 * 기술스택
     * 웹 데이터 수집 라이브러리 : bs4, requests, selenium
     * 시각화 라이브러리 : matplotlib, seaborn
 
-### 2. 팀 프로젝트 - 멋쟁이 승우처럼 [LINK][Team_Project_02]
+#### 2. 팀 프로젝트 - 멋쟁이 승우처럼 [LINK][Team_Project_02]
 
 * 주제 : 가스공급량 수요예측 모델개발
 * 기간 : 2021.10.15 ~ 2021.11.10
-* 역할 : `팀장`
+* 역할 : <span style="color:red">`팀장`</span>
     * 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
     * merging dataset and processing missing value
     * feature engineering (using statistics, model)
@@ -44,7 +44,7 @@
         * 비지도학습 : K-means, PCA 등
     * 시각화 라이브러리 : matplotlib, seaborn
 
-### 3. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기 [LINK][Project_01]
+#### 3. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기 [LINK][Project_01]
 
 * 주제 : 멜론 최신앨범, TOP100 분석
 * 기간 : 2021.09.14
@@ -52,7 +52,7 @@
     * 웹 데이터 수집 라이브러리 : bs4, requests, selenium
     * 데이터 분석 라이브러리 : pandas
 
-### 4. 파일럿 프로젝트 - 고구마 가격 예측 [LINK][Project_02]
+#### 4. 파일럿 프로젝트 - 고구마 가격 예측 [LINK][Project_02]
 
 * 주제 : 날씨에 따라 고구마 가격은 어떻게 달라질까?
 * 기간 : 2021.10.20
