@@ -5,7 +5,7 @@
 * 멋쟁이 사자처럼 인공지능 통합과정 13회차 [LINK][LikeLion]
     * 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문 
     * 데이터 분석과 머신러닝 핵심 역량 및 딥러닝에 대한 기초를 기를 수 있는 과정
-<mark style='background-color: #dcffe4'> 연한 초록 </mark>
+
 ---
 
 ## 수업내용
@@ -91,6 +91,13 @@ Contents
 *사자감성](#)
 *사자감성](#)
 )
+
+<mark style='background-color: #dcffe4'> 연한 초록 </mark>
+<mark style='background-color: #ffdce0'> 연한 빨강 </mark>
+<mark style='background-color: #fff5b1'> 연한 노랑 </mark>
+<mark style='background-color: #f1f8ff'> 연한 파랑 </mark>
+<mark style='background-color: #f5f0ff'> 연한 보라 </mark>
+<mark style='background-color: #f6f8fa'> 연한 회색 </mark>
 -->
 
 
