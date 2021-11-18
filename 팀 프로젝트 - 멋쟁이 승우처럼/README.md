@@ -1,25 +1,24 @@
 ## 프로젝트명 : 가스공급량 수요예측 모델개발(2021.10.15 ~ 2021.11.10)
 
-<span style="color: red">some **This is Red Bold.** text</span>
-
 ### 팀 구성 및역할
-- 문승우 `팀장`
-    > 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
-    >> merging dataset and processing missing value
-    >> feature engineering (using statistics, model)
-    >> evaluate model (using Cross Validation, Grid Search)
-    >> evaluation metrics – by MSE, RMSE, finally evaluated by NMAE
-    >> Cross Validation and Parameter Tuning
-    > 
-- 정진우 `부팀장`
-    - 모델 성능 향상, 발표
-        - compare Machine Learning Model
-        - Cross Validation and Parameter Tuning
-- 오소영 `팀원`
-    - 데이터 시각화, 발표 자료 준비,PPT 자료 정리
-        - Matplotlib, seaborn 등을 활용한 데이터 탐색 및 시각화
-- 강수정 `팀원`
-    - 데이터 탐색 및 수집
+
+ * 문승우 `팀장` - 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선
+    * merging dataset and processing missing value</br>
+    * feature engineering (using statistics, model)</br>
+    * evaluate model (using Cross Validation, Grid Search)</br>
+    * evaluation metrics – by MSE, RMSE, finally evaluated by NMAE</br>
+    * Cross Validation and Parameter Tuning</br>
+    
+
+ * 정진우 `부팀장` - 모델 성능 향상, 발표
+    * compare Machine Learning Model
+    * Cross Validation and Parameter Tuning
+
+
+ * 오소영 `팀원` - 데이터 시각화, 발표 자료 준비,PPT 자료 정리
+    * Matplotlib, seaborn 등을 활용한 데이터 탐색 및 시각화
+
+* 강수정 `팀원` - 데이터 탐색 및 수집
 
 ### 1. 프로젝트 목표
 - 지금까지 배운 내용을 토대로 실전 분석 대회([DACON][dacon])에 참여하여 팀원 전체의 실전 역량을 향상시킨다.
@@ -99,4 +98,14 @@ X = train[["month", "hour", "구분_int", "기온(°C)"]]
 y = train["공급량"]
 GridSearchCV 최적 파라미터 :  {'learning_rate': 0.01, 'max_depth': 12, 'n_estimators': 2000}
 GridSearchCV 최고 정확도 : 0.9696
+
+
+리드미 작성이 잘 되어있어서 멋사 과정 동안 어떤 것을 했는지 간략하게 확인 할 수 있었습니다.
+진행한 내용마다 기간이 표시되어 있어 좋았습니다.
+
+깃허브 페이지를 추가로 만들면 좋을 것 같아요!
+
+
+
+
 -->
