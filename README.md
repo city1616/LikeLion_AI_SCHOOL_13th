@@ -53,7 +53,7 @@
 |:--------:|----------------------------------------------|
 |   주제   |날씨에 따라 고구마 가격은 어떻게 달라질까?    |
 |   기간   |2021.10.20                                    |
-| 기술스택 |- 데이터 분석 라이브러리 : pandas</br>- 시각화 라이브러리 : matplotlib, seaborn</br>- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)</br>- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)</br>- 비지도학습 : K-means                                      |
+| 기술스택 |- 데이터 분석 라이브러리 : pandas</br>- 시각화 라이브러리 : matplotlib, seaborn</br>- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)</br>- 지도학습 : Regression, Decision Tree, Ensemble(LinearRegression, RandomForest 등)</br>- 비지도학습 : K-means                                      |
 
 
 
@@ -136,7 +136,19 @@ Contents
 
 -->
 
-
+<div align = "left">
+    <table border = 1 bgcolor = #EEEEEE>
+        <tr>
+            <td><div>hello</div></td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td><div align = "center">first commit</div></td>
+            <td><div align = "center">first commit</br>hello</div></td>
+            <td><div>first commit</div></td>
+    </table>
+</div>
 
 
 
