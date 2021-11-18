@@ -1,6 +1,6 @@
 ## 프로젝트명 : 가스공급량 수요예측 모델개발(2021.10.15 ~ 2021.11.10)
 
-<span style="color:red">some **This is Red Bold.** text</span>
+<span style="color: red">some **This is Red Bold.** text</span>
 
 ### 팀 구성 및역할
 - 문승우 `팀장`
