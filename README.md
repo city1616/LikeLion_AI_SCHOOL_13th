@@ -18,7 +18,6 @@
         * 웹 데이터 수집 라이브러리 : bs4, requests, selenium
         * 시각화 라이브러리 : matplotlib, seaborn
 
-
 02. 팀 프로젝트 - 멋쟁이 수정처럼
     * 주제 : 가스공급량 수요예측 모델개발
     * 기간 : 2021.10.15 ~ 2021.11.10
@@ -34,10 +33,23 @@
 	        * 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
 	        * 비지도학습 : K-means, PCA 등
         * 시각화 라이브러리 : matplotlib, seaborn
-03. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기
-04. 파일럿 프로젝트 - 고구마 가격 예측
-05. 개인 프로젝트
 
+03. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기
+    * 주제 : 멜론 최신앨범, TOP100 분석
+    * 기간 : 2021.09.14
+    * 기술스택 : 
+        * 웹 데이터 수집 라이브러리 : bs4, requests, selenium
+        * 데이터 분석 라이브러리 : pandas
+
+04. 파일럿 프로젝트 - 고구마 가격 예측
+    * 주제 : 날씨에 따라 고구마 가격은 어떻게 달라질까?
+    * 기간 : 2021.10.20
+    * 기술스택 : 
+        * 데이터 분석 라이브러리 : pandas
+        * 시각화 라이브러리 : matplotlib, seaborn
+        * 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)
+	        * 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
+	        * 비지도학습 : K-means
 
 
 [//]: # (1. CODE LION
