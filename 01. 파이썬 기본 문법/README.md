@@ -10,7 +10,7 @@
 
 ---
 <style>
-    tr, td {
+    tr, td, th {
         border: none!important;
     }
 </style>
@@ -19,7 +19,7 @@
     <tr>
         <td>1</td>
         <td>파이썬 내장함수, 자료형, 연산자</td>
-        <td><a href = basic_01>CODE</a></td>
+        <td><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/01_Python_Basic.ipynb">CODE</a></td>
     </tr>
     <tr>
         <td>2</td>
@@ -53,6 +53,10 @@
     </tr>
 </table>
 &nbsp;
+
+aa|bb|cc
+--|--|--
+ee|ff|gg 
 
 
 [basic_01]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/01_Python_Basic.ipynb
