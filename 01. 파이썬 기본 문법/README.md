@@ -8,21 +8,43 @@
 6. 클래스, 예외 처리, 시각화 라이브러리 [CODE][basic_06]
 7. 고객 정보 관리 프로그램 [CODE][basic_07]
 
+---
+
 <table>
     <tr>
         <td>1</td>
         <td>파이썬 내장함수, 자료형, 연산자</td>
-        <td>[CODE][basic_01]</td>
+        <td><a href = basic_01>CODE</a></td>
     </tr>
     <tr>
         <td>2</td>
         <td>반복문, 조건문, 함수, 리스트, 딕셔너리</td>
-        <td>[CODE][basic_02]</td>
+        <td><a href = basic_02>CODE</a></td>
     </tr>
     <tr>
         <td>3</td>
         <td>파이썬 문제풀이</td>
-        <td><a href = basic_03>[CODE][basic_03]</a></td>
+        <td><a href = basic_03>CODE</a></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>지역변수/전역변수, 파일 읽고 쓰기</td>
+        <td><a href = basic_04>CODE</a></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>파일 생성하기, 파일 읽기, 파일 복사(text, image file)</td>
+        <td><a href = basic_05>CODE</a></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>클래스, 예외 처리, 시각화 라이브러리</td>
+        <td><a href = basic_06>CODE</a></td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>고객 정보 관리 프로그램</td>
+        <td><a href = basic_07>CODE</a></td>
     </tr>
 </table>
 
