@@ -8,6 +8,28 @@
 6. 클래스, 예외 처리, 시각화 라이브러리 [CODE][basic_06]
 7. 고객 정보 관리 프로그램 [CODE][basic_07]
 
+<table>
+    <tr>
+        <td>1</td>
+        <td>파이썬 내장함수, 자료형, 연산자</td>
+        <td>[CODE][basic_01]</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>파이썬 내장함수, 자료형, 연산자</td>
+        <td>[CODE][basic_01]</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>파이썬 내장함수, 자료형, 연산자</td>
+        <td>[CODE][basic_01]</td>
+    </tr>
+</table>
+
+
+
+
+
 
 [basic_01]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/01_Python_Basic.ipynb
 [basic_02]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/03_Python_For_If_List_Dictionary.ipynb
