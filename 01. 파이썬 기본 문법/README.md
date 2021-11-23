@@ -10,9 +10,9 @@
 
 ---
 <style>
-    tr, td, th {
-        border: none!important;
-    }
+tr, td, th {
+border: none!important;
+}
 </style>
 
 <table>
