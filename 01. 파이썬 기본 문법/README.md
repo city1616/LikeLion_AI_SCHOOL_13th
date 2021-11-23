@@ -9,6 +9,11 @@
 7. 고객 정보 관리 프로그램 [CODE][basic_07]
 
 ---
+<style>
+    tr, td {
+        border: none!important;
+    }
+</style>
 
 <table>
     <tr>
@@ -47,6 +52,7 @@
         <td><a href = basic_07>CODE</a></td>
     </tr>
 </table>
+&nbsp;
 
 
 [basic_01]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/01_Python_Basic.ipynb
