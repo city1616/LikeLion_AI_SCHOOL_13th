@@ -8,18 +8,18 @@
 6. 클래스, 예외 처리, 시각화 라이브러리 [CODE][basic_06]
 7. 고객 정보 관리 프로그램 [CODE][basic_07]
 
-<table border="0">
-    <tr border="0">
+<table border=none>
+    <tr border=none>
         <td>1</td>
         <td>파이썬 내장함수, 자료형, 연산자</td>
         <td>[CODE][basic_01]</td>
     </tr>
-    <tr border="0">
+    <tr border=none>
         <td>2</td>
         <td>반복문, 조건문, 함수, 리스트, 딕셔너리</td>
         <td>[CODE][basic_02]</td>
     </tr>
-    <tr border="0">
+    <tr border=none>
         <td>3</td>
         <td>파이썬 문제풀이</td>
         <td> <a>[CODE][basic_03]</a> </td>
