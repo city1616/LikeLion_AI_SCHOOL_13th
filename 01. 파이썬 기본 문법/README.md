@@ -10,14 +10,13 @@
 7. 고객 정보 관리 프로그램 [CODE][basic_07]
 
 ---
--->
 
 <style>
     tr, td, th {
         border: none!important;
     }
 </style>
-
+-->
 
 <table>
     <tr>
