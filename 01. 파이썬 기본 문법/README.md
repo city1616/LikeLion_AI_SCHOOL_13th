@@ -8,7 +8,7 @@
 6. 클래스, 예외 처리, 시각화 라이브러리 [CODE][basic_06]
 7. 고객 정보 관리 프로그램 [CODE][basic_07]
 
-<table border="0">
+<table border="0", border="separate">
     <tr>
         <td>1</td>
         <td>파이썬 내장함수, 자료형, 연산자</td>
@@ -25,10 +25,6 @@
         <td> <a>[CODE][basic_03]</a> </td>
     </tr>
 </table>
-
-
-
-
 
 
 [basic_01]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/01_Python_Basic.ipynb
