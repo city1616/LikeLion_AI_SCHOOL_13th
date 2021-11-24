@@ -38,6 +38,29 @@
 |   역할   |<span style="color:red">`팀장`</span></br>- 데이터 수집 및 전처리</br>- 데이터 분석 및 시각화                                         |
 | 기술스택 |- 웹 데이터 수집 라이브러리 : bs4, requests, selenium</br>- 시각화 라이브러리 : matplotlib, seaborn                                 |
 
+<table>
+    <tr>
+        <td width="100">팀명</td>
+        <td width = "550">사자감성</td>
+    </tr>
+    <tr>
+        <td>주제</td>
+        <td>코로나 확진자와 일상 생활 지표와의 상관관계 분석</td>
+    </tr>
+    <tr>
+        <td>기간</td>
+        <td>2021.09.17 ~ 2021.10.08</td>
+    </tr>
+     <tr>
+        <td>역할</td>
+        <td><span style="color:red">`팀장`</span></br>- 데이터 수집 및 전처리</br>- 데이터 분석 및 시각화</td>
+    </tr>
+     <tr>
+        <td>기술스택</td>
+        <td>- 웹 데이터 수집 라이브러리 : bs4, requests, selenium</br>- 시각화 라이브러리 : matplotlib, seaborn</td>
+    </tr>
+</table>
+
 
 ### 2. 팀 프로젝트 - 멋쟁이 승우처럼 [PAGE][Team_Project_Page_02] | [CODE][Team_Project_02]
 
