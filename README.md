@@ -46,15 +46,15 @@
      <tr>
         <td align="center">역할</td>
         <td>
-            <span style="color:red">`< 팀장 >`</span></br>
-            - 데이터 수집 및 전처리</br>
+            <span style="color:red">`< 팀장 >`</span><br>
+            - 데이터 수집 및 전처리<br>
             - 데이터 분석 및 시각화
         </td>
     </tr>
      <tr>
         <td align="center">기술스택</td>
         <td>
-            - 웹 데이터 수집 라이브러리 : bs4, requests, selenium</br>
+            - 웹 데이터 수집 라이브러리 : bs4, requests, selenium<br>
             - 시각화 라이브러리 : matplotlib, seaborn
         </td>
     </tr>
@@ -63,13 +63,41 @@
 
 ### 2. 팀 프로젝트 - 멋쟁이 승우처럼 [PAGE][Team_Project_Page_02] | [CODE][Team_Project_02]
 
-|   구분   |설명                                |
-|:--------:|------------------------------------|
-|   팀명   |멋쟁이 승우처럼                     |
-|   주제   |가스공급량 수요예측 모델개발        |
-|   기간   |2021.10.15 ~ 2021.11.10             |
-|   역할   |<span style="color:red">`팀장`</span></br>- 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선</br>- merging dataset and processing missing value</br>- feature engineering (using statistics, model)</br>- evaluate model (using Cross Validation, Grid Search)</br>- evaluation metrics – by MSE, RMSE, finally evaluated by NMAE</br>- Cross Validation and Parameter Tuning|
-| 기술스택 |- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)</br>- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)</br>- 비지도학습 : K-means, PCA 등</br>- 시각화 라이브러리 : matplotlib, seaborn
+<table>
+    <tr>
+        <td width="150"; align="center";>팀명</td>
+        <td width = "700">멋쟁이 승우처럼</td>
+    </tr>
+    <tr>
+        <td align="center">주제</td>
+        <td>가스공급량 수요예측 모델개발</td>
+    </tr>
+    <tr>
+        <td align="center">기간</td>
+        <td>2021.10.15 ~ 2021.11.10</td>
+    </tr>
+     <tr>
+        <td align="center">역할</td>
+        <td>
+            <span style="color:red">`팀장`</span><br>
+            - 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선<br>
+            - merging dataset and processing missing value<br>
+            - feature engineering (using statistics, model)<br>
+            - evaluate model (using Cross Validation, Grid Search)<br>
+            - evaluation metrics – by MSE, RMSE, finally evaluated by NMAE<br>
+            - Cross Validation and Parameter Tuning
+        </td>
+    </tr>
+     <tr>
+        <td align="center">기술스택</td>
+        <td>
+            - 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)<br>
+            - 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)<br>
+            - 비지도학습 : K-means, PCA 등<br>
+            - 시각화 라이브러리 : matplotlib, seaborn
+        </td>
+    </tr>
+</table>
 
 ### 3. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기 [PAGE][Project_Page_01] | [CODE][Project_01]
 
@@ -77,7 +105,7 @@
 |:--------:|------------------------------------|
 |   주제   |멜론 최신앨범, TOP100 분석          |
 |   기간   |2021.09.14                          |
-| 기술스택 |- 웹 데이터 수집 라이브러리 : bs4, requests, selenium</br>- 데이터 분석 라이브러리 : pandas                        |
+| 기술스택 |- 웹 데이터 수집 라이브러리 : bs4, requests, selenium<br>- 데이터 분석 라이브러리 : pandas                        |
 
 ### 4. 파일럿 프로젝트 - 고구마 가격 예측 [PAGE][Project_Page_02] | [CODE][Project_02]
 
@@ -85,7 +113,7 @@
 |:--------:|----------------------------------------------|
 |   주제   |날씨에 따라 고구마 가격은 어떻게 달라질까?    |
 |   기간   |2021.10.20                                    |
-| 기술스택 |- 데이터 분석 라이브러리 : pandas</br>- 시각화 라이브러리 : matplotlib, seaborn</br>- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)</br>- 지도학습 : Regression, Decision Tree, Ensemble(LinearRegression, RandomForest 등)</br>- 비지도학습 : K-means                                      |
+| 기술스택 |- 데이터 분석 라이브러리 : pandas<br>- 시각화 라이브러리 : matplotlib, seaborn<br>- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)<br>- 지도학습 : Regression, Decision Tree, Ensemble(LinearRegression, RandomForest 등)<br>- 비지도학습 : K-means                                      |
 
 
 [LikeLion]: https://k-digital.likelion.net/77be1778-792c-49a1-ab33-684b42b1ed26
@@ -172,6 +200,14 @@ Contents
         * 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)
         * 비지도학습 : K-means, PCA 등
     * 시각화 라이브러리 : matplotlib, seaborn
+
+|   구분   |설명                                |
+|:--------:|------------------------------------|
+|   팀명   |멋쟁이 승우처럼                     |
+|   주제   |가스공급량 수요예측 모델개발        |
+|   기간   |2021.10.15 ~ 2021.11.10             |
+|   역할   |<span style="color:red">`팀장`</span><br>- 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선<br>- merging dataset and processing missing value<br>- feature engineering (using statistics, model)<br>- evaluate model (using Cross Validation, Grid Search)<br>- evaluation metrics – by MSE, RMSE, finally evaluated by NMAE<br>- Cross Validation and Parameter Tuning|
+| 기술스택 |- 머신러닝 알고리즘(데이터 탐색, 모델 구축 및 평가)<br>- 지도학습 : Regression, Decision Tree, Ensemble(RandomForest, lightgbm, xgboost 등)<br>- 비지도학습 : K-means, PCA 등<br>- 시각화 라이브러리 : matplotlib, seaborn|
     
 * 주제 : 멜론 최신앨범, TOP100 분석
 * 기간 : 2021.09.14
