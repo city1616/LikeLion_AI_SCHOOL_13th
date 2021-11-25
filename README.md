@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcity1616%2FLikeLion_AI_SCHOOL_13th&count_bg=%23B552FF&title_bg=%23555555&icon=codecademy.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* 멋쟁이 사자처럼 인공지능 통합과정 13회차 [PAGE][Base_Path]
+* 멋쟁이 사자처럼 인공지능 통합과정 13회차 [PAGE][Base_Path] | [CODE][Base_GitHub]
     * 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문 [PAGE][LikeLion]
     * 데이터 분석과 머신러닝 핵심 역량 및 딥러닝에 대한 기초를 기를 수 있는 과정
 
@@ -146,6 +146,7 @@
 [LikeLion]: https://k-digital.likelion.net/77be1778-792c-49a1-ab33-684b42b1ed26
 
 [Base_Path]: https://city1616.github.io/LikeLion_AI_SCHOOL_13th/
+[Base_GitHub]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th
 
 [Python_Basic]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/01.%20파이썬%20기본%20문법
 [Web]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/02.%20웹과%20Github%20기본
