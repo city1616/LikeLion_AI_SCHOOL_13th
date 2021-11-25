@@ -1,9 +1,9 @@
-# [LikeLion AI SCHOOL 13th](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/)
+# LikeLion AI SCHOOL 13th
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcity1616%2FLikeLion_AI_SCHOOL_13th&count_bg=%23B552FF&title_bg=%23555555&icon=codecademy.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* 멋쟁이 사자처럼 인공지능 통합과정 13회차 [PAGE][LikeLion]
-    * 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문 
+* 멋쟁이 사자처럼 인공지능 통합과정 13회차 [PAGE][Base_Path]
+    * 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문 [PAGE][LikeLion]
     * 데이터 분석과 머신러닝 핵심 역량 및 딥러닝에 대한 기초를 기를 수 있는 과정
 
 ---
