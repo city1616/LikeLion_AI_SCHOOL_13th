@@ -65,7 +65,7 @@
 
 <table>
     <tr>
-        <td width="150"; align="center";>팀명</td>
+        <td width="150" align="center">팀명</td>
         <td width = "700">멋쟁이 승우처럼</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
 
 <table>
     <tr>
-        <td width="150"; align="center";>주제</td>
+        <td width="150" align="center">주제</td>
         <td width = "700">멜론 최신앨범, TOP100 분석</td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
 
 <table>
     <tr>
-        <td width="150"; align="center";>주제</td>
+        <td width="150" align="center">주제</td>
         <td width = "700">날씨에 따라 고구마 가격은 어떻게 달라질까?</td>
     </tr>
     <tr>
