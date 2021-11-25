@@ -32,8 +32,8 @@
 
 <table>
     <tr>
-        <td width="150"; align="center";>팀명</td>
-        <td width = "700">사자감성</td>
+        <td width="150" align="center">팀명</td>
+        <td width="700">사자감성</td>
     </tr>
     <tr>
         <td align="center">주제</td>
