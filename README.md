@@ -46,7 +46,7 @@
      <tr>
         <td align="center">역할</td>
         <td>
-            <span style="color:#00AAAA">< 팀장 ></span><br>
+            <span style="color:#00AAAA"><b>< 팀장 ></b></span><br>
             - 데이터 수집 및 전처리<br>
             - 데이터 분석 및 시각화
         </td>
@@ -79,7 +79,7 @@
      <tr>
         <td align="center">역할</td>
         <td>
-            <span style="color:#00AAAA">< 팀장 ></span><br>
+            <span style="color:#00AAAA"><b>< 팀장 ></b></span><br>
             - 데이터 전처리, 시각화, 추가 변수 생성, 모델 성능 개선<br>
             - merging dataset and processing missing value<br>
             - feature engineering (using statistics, model)<br>
