@@ -22,8 +22,8 @@
 
 <table>
     <tr>
-        <td width="50" align="center">1</td>
-        <td width="350">파이썬 내장함수, 자료형, 연산자</td>
+        <td width="70" align="center">1</td>
+        <td width="400">파이썬 내장함수, 자료형, 연산자</td>
         <td width="100" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/01.%20파이썬%20기본%20문법/01_Python_Basic.ipynb">CODE</a></td>
     </tr>
     <tr>
