@@ -1,4 +1,4 @@
-## 파이썬 기본 문법 [PAGE][Base_Page] ⎮ [CODE][Base_Code]
+## 파이썬 기본 문법 &nbsp; [PAGE][Base_Page] ⎮ [CODE][Base_Code]
 
 <!--
 1. 파이썬 내장함수, 자료형, 연산자 [CODE][basic_01]
