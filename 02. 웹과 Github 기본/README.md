@@ -1,4 +1,5 @@
-## 웹의 이해 및 HTML 기본 실습 [PAGE][Base_Page]
+## 웹과 GitHub 기본 &nbsp; [PAGE][Base_Page]
+
 ### HTML 기본 이해 실습
 
 1. title tag [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
