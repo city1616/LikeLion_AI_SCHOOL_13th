@@ -1,4 +1,9 @@
-### PYTHON LIBRARY(seaborn, pandas, folium, plotly, konlpy)
+## PYTHON LIBRARY
+* seaborn
+* pandas
+* folium
+* plotly
+* konlpy
 <hr>
 
 ### seaborn
