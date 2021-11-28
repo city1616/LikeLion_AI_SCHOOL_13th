@@ -24,4 +24,8 @@
 * 좋아요 수를 정수형으로 형 변환한 후 정렬, 상위 데이터의 정보를 살펴본다.
 * 좋아요 수가 1000 이상인 데이터를 찾아본다.
 
-LikeLion_AI_SCHOOL_13th
+<!--
+### [파일럿 프로젝트(selenium을 이용한 멜론 음악 정보 크롤링)](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기)
+* 멜론 홈페이지에서 최신앨범 정보 크롤링 후, CSV 파일로 저장 [PAGE](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_release_album.py) | [notebook](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_release_album.ipynb) | [CSV](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_최신앨범정보.csv)
+* 멜론 차트의 TOP100 정보 크롤링 후, CSV 파일로 저장 [PAGE](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.py) | [notebook](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/melon_TOP100.ipynb) | [CSV](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/05_web_data/파일럿프로젝트_멜론_최신앨범_정보_가져오기/2021_09_16_melon_TOP100.csv)
+-->
