@@ -2,33 +2,23 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcity1616%2FLikeLion_AI_SCHOOL_13th&count_bg=%23B552FF&title_bg=%23555555&icon=codecademy.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-* 멋쟁이 사자처럼 인공지능 통합과정 13회차 [PAGE][Base_Path] / [CODE][Base_GitHub]
-    * 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문 [PAGE1][LikeLion1] / [PAGE2][LikeLion2]
+* 멋쟁이 사자처럼 인공지능 통합과정 13회차 &nbsp;&nbsp;[PAGE][Base_Path] / [CODE][Base_GitHub]
+    * 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문 &nbsp;&nbsp;[PAGE1][LikeLion1] / [PAGE2][LikeLion2]
     * 데이터 분석과 머신러닝 핵심 역량 및 딥러닝에 대한 기초를 기를 수 있는 과정
 
 ---
 
 ## 수업내용
 
-01. 파이썬 기본 문법 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[PAGE][Python_Basic_Page] | [CODE][Python_Basic]
-02. 웹과 Github 기본 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[PAGE][Web_Page] | [CODE][Web]
-03. 웹 데이터 수집하기 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[PAGE][Web_Data_Page] | [CODE][Web_Data]
-04. 파이썬 라이브러리 활용 
-&nbsp;&nbsp;&nbsp;
-[PAGE][Python_Library_Page] | [CODE][Python_Library]
-05. 머신러닝 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[PAGE][ML_Page] | [CODE][ML]
+01. 파이썬 기본 문법 &nbsp;&nbsp;[PAGE][Python_Basic_Page] | [CODE][Python_Basic]
+02. 웹과 Github 기본 &nbsp;&nbsp;[PAGE][Web_Page] | [CODE][Web]
+03. 웹 데이터 수집하기 &nbsp;&nbsp;[PAGE][Web_Data_Page] | [CODE][Web_Data]
+04. 파이썬 라이브러리 활용 &nbsp;&nbsp;[PAGE][Python_Library_Page] | [CODE][Python_Library]
+05. 머신러닝 &nbsp;&nbsp;[PAGE][ML_Page] | [CODE][ML]
 
 ## 프로젝트
 
-### 1. 팀 프로젝트 - 사자감성 [PAGE][Team_Project_Page_01] | [CODE][Team_Project_01]
+### 1. 팀 프로젝트 - 사자감성 &nbsp;&nbsp;[PAGE][Team_Project_Page_01] | [CODE][Team_Project_01]
 
 <table>
     <tr>
@@ -61,7 +51,7 @@
 </table>
 
 
-### 2. 팀 프로젝트 - 멋쟁이 승우처럼 [PAGE][Team_Project_Page_02] | [CODE][Team_Project_02]
+### 2. 팀 프로젝트 - 멋쟁이 승우처럼 &nbsp;&nbsp;[PAGE][Team_Project_Page_02] | [CODE][Team_Project_02]
 
 <table>
     <tr>
@@ -99,7 +89,7 @@
     </tr>
 </table>
 
-### 3. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기 [PAGE][Project_Page_01] | [CODE][Project_01]
+### 3. 파일럿 프로젝트 - 멜론 최신앨범 정보 가져오기 &nbsp;&nbsp;[PAGE][Project_Page_01] | [CODE][Project_01]
 
 <table>
     <tr>
@@ -119,7 +109,7 @@
     </tr>
 </table>
 
-### 4. 파일럿 프로젝트 - 고구마 가격 예측 [PAGE][Project_Page_02] | [CODE][Project_02]
+### 4. 파일럿 프로젝트 - 고구마 가격 예측 &nbsp;&nbsp;[PAGE][Project_Page_02] | [CODE][Project_02]
 
 <table>
     <tr>
