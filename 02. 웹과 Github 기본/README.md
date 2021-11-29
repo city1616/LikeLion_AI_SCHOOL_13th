@@ -1,4 +1,4 @@
-## 웹과 GitHub 기본 &nbsp; [PAGE][Base_Page]
+## 웹과 GitHub 기본 &nbsp; [PAGE][Base_Page] ⎮ [CODE][Base_Code]
 
 ### HTML 기본 이해 실습
 
@@ -137,9 +137,31 @@
 </table>
 
 ### Javascript 기본 이해 실습
-1. var [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/03_var.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/03_var.html)
-2. 입력 받은 값 더하기 [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/04_1_var_example.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/04_1_var_example.html)
-3. 사용자로부터 입력을 받아서, 전체 길이와 앞에 5글자 가져오기 [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/06_1_str_example.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/06_1_str_example.html)
+
+<table>
+    <tr>
+        <td width="70" align="center">1</td>
+        <td width="300">var</td>
+        <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/03_var.html">PAGE</a></td>
+        <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/03_var.html">HTML CODE</a></td>
+        <td width="150" align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">2</td>
+        <td>입력 받은 값 더하기</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/04_1_var_example.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/04_1_var_example.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">3</td>
+        <td>사용자로부터 입력을 받아서, 전체 길이와 앞에 5글자 가져오기</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/06_1_str_example.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/06_1_str_example.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+</table>
+
 4. array [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/07_array.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/07_array.html)
 5. 배열의 값을 하나씩 출력해 보는 프로그램(for) [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/08_for.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/08_for.html)
 6. 외부 javascript 불러오기 [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/09_external_js.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/09_external_js.html) | [js코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/09_for.js)
@@ -149,3 +171,4 @@
 😄😄😄😄😄😄
 
 [Base_Page]: https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본
+[Base_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/02.%20웹과%20Github%20기본
