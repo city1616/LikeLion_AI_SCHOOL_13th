@@ -2,6 +2,21 @@
 
 ### HTML 기본 이해 실습
 
+<table>
+    <tr>
+        <td width="70" align="center">1</td>
+        <td width="450">title tag</td>
+        <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html">PAGE</a></td>
+        <td width="100" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/01_html_title.html">CODE</a></td>
+    </tr>
+    <tr>
+        <td align="center">2</td>
+        <td>body, p tab</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/02_html_body_p.html">CODE</a></td>
+    </tr>
+</table>
+
 1. title tag [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
 2. body, p tab [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
 3. a, img tag [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html)
