@@ -122,6 +122,13 @@
     </tr>
     <tr>
         <td align="center">11</td>
+        <td>CSS summary</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/13_CSS_summary.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/13_CSS_summary.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">12</td>
         <td>Toy Project - 나의 사진 갤러리</td>
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/12_img_gallery.html">PAGE</a></td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/12_img_gallery.html">HTML CODE</a></td>
