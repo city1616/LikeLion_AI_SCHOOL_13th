@@ -99,6 +99,13 @@
         <td align="center"> </td>
         <td align="center"> </td>
     </tr>
+    <tr>
+        <td align="center">5</td>
+        <td>네이버 데이터랩에서 키워드 가져오기</td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/07_Naver_Datalab.ipynb">CODE</a></td>
+        <td align="center"> </td>
+        <td align="center"> </td>
+    </tr>
 </table>
 
 
