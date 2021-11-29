@@ -85,14 +85,49 @@
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/06_external_example.html">HTML CODE</a></td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/06_ex_example.css">CSS CODE</a></td>
     </tr>
+    <tr>
+        <td align="center">6</td>
+        <td>border style</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/07_border_style.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/07_border_style.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">7</td>
+        <td>margin</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/08_margin.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/08_margin.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">8</td>
+        <td>padding</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/09_padding.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/09_padding.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">9</td>
+        <td>padding, margin</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/10_padding_margin.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/10_padding_margin.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">10</td>
+        <td>padding, margin</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/11_link.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/11_link.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">11</td>
+        <td>Toy Project - 나의 사진 갤러리</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/12_img_gallery.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/12_img_gallery.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
 </table>
-
-6. border style [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/07_border_style.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/07_border_style.html)
-7. margin [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/08_margin.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/08_margin.html)
-8. padding [실행](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/09_padding.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/09_padding.html)
-9. padding, margin [실행](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/10_padding_margin.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/10_padding_margin.html)
-10. padding, margin [실행](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/11_link.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/11_link.html)
-11. Toy Project - 나의 사진 갤러리 [실행](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/12_img_gallery.html)
 
 ### Javascript 기본 이해 실습
 1. var [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/03_var.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/03_var.html)
