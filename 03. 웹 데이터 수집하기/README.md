@@ -5,8 +5,8 @@
 <table>
     <tr>
         <td width="70" align="center">1</td>
-        <td width="600">BeautifulSoup 실습</td>
-        <td width="120" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/04_BeautifulSoup_Basic.py">CODE</a></td>
+        <td width="630">BeautifulSoup 실습</td>
+        <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/04_BeautifulSoup_Basic.py">CODE</a></td>
         <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/05_BeautifulSoup_Basic.py">CODE</a></td>
     </tr>
     <tr>
@@ -64,10 +64,10 @@
 <table>
     <tr>
         <td width="70" align="center">1</td>
-        <td width="600">selenium 기본 실습</td>
-        <td width="120" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/01_selenium_basic.py">CODE</a></td>
-        <td width="120" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/02_selenium_basic.ipynb">CODE</a></td>
-        <td width="120" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/06_selenium_실습.ipynb">CODE</a></td>
+        <td width="630">selenium 기본 실습</td>
+        <td width="100" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/01_selenium_basic.py">CODE</a></td>
+        <td width="100" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/02_selenium_basic.ipynb">CODE</a></td>
+        <td width="100" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/02.%20Selenium/06_selenium_실습.ipynb">CODE</a></td>
     </tr>
     <tr>
         <td align="center">2</td>
