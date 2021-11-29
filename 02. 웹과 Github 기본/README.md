@@ -15,14 +15,31 @@
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/02_html_body_p.html">PAGE</a></td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/02_html_body_p.html">CODE</a></td>
     </tr>
+    <tr>
+        <td align="center">3</td>
+        <td>a, img tag</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/03_html_link_img.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/03_html_link_img.html">CODE</a></td>
+    </tr>
+    <tr>
+        <td align="center">4</td>
+        <td>div, span, ul, ol, li</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/04_html_div_span.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/04_html_div_span.html">CODE</a></td>
+    </tr>
+    <tr>
+        <td align="center">5</td>
+        <td>html summary</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/05_html_summary.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/05_html_summary.html">CODE</a></td>
+    </tr>
+    <tr>
+        <td align="center">6</td>
+        <td>자기소개 페이지</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/main.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/main.html">CODE</a></td>
+    </tr>
 </table>
-
-1. title tag [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/01_html_title.html)
-2. body, p tab [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/02_html_body_p.html)
-3. a, img tag [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/03_html_link_img.html)
-4. div, span, ul, ol, li [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/04_html_div_span.html)
-5. html summary [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/05_html_summary.html)
-6. 자기소개 페이지 [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02_web_html/main.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02_web_html/main.html)
 
 ### CSS 기본 이해 실습
 1. id, class [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) 
