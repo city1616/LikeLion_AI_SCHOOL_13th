@@ -5,46 +5,82 @@
 <table>
     <tr>
         <td width="70" align="center">1</td>
-        <td width="450">title tag</td>
+        <td width="200">title tag</td>
         <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/01_html_title.html">PAGE</a></td>
-        <td width="100" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/01_html_title.html">CODE</a></td>
+        <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/01_html_title.html">HTML CODE</a></td>
+        <td width="100" align="center"> </td>
     </tr>
     <tr>
         <td align="center">2</td>
         <td>body, p tab</td>
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/02_html_body_p.html">PAGE</a></td>
-        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/02_html_body_p.html">CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/02_html_body_p.html">HTML CODE</a></td>
+        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">3</td>
         <td>a, img tag</td>
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/03_html_link_img.html">PAGE</a></td>
-        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/03_html_link_img.html">CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/03_html_link_img.html">HTML CODE</a></td>
+        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">4</td>
         <td>div, span, ul, ol, li</td>
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/04_html_div_span.html">PAGE</a></td>
-        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/04_html_div_span.html">CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/04_html_div_span.html">HTML CODE</a></td>
+        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">5</td>
         <td>html summary</td>
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/05_html_summary.html">PAGE</a></td>
-        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/05_html_summary.html">CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/05_html_summary.html">HTML CODE</a></td>
+        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">6</td>
         <td>자기소개 페이지</td>
         <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/main.html">PAGE</a></td>
-        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/main.html">CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/main.html">HTML CODE</a></td>
+        <td align="center"> </td>
     </tr>
 </table>
 
 ### CSS 기본 이해 실습
-1. id, class [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/02_css_id_class.html) 
-2. interal CSS [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/03_multi.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/03_multi.html)
-3. inline CSS [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/04_inline.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/04_inline.html)
+
+<table>
+    <tr>
+        <td width="70" align="center">1</td>
+        <td width="200">id, class</td>
+        <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/02_css_id_class.html">PAGE</a></td>
+        <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/02_css_id_class.html">HTML CODE</a></td>
+        <td width="100" align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">2</td>
+        <td>interal CSS</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/03_multi.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/03_multi.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">3</td>
+        <td>inline CSS</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/04_inline.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/04_inline.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">4</td>
+        <td>external CSS</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/05_external.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/04_inline.html">HTML CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/05_external.css">CSS CODE</a></td>
+    </tr>
+</table>
+
+
 4. external CSS [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/04_inline.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/04_inline.html)
 5. external CSS example [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/06_ex_example.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/06_ex_example.html)
 6. border style [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03_CSS/07_border_style.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03_CSS/07_border_style.html)
