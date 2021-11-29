@@ -14,13 +14,11 @@
         <td>KOSPI 정보 가져온 후 CSV 파일 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/06_stock_get.py">CODE</a></td>
         <td align="center"> </td>
-        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">3</td>
         <td>KOSDAQ 정보 가져온 후 CSV 파일 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/07_kosdaq.py">CODE</a></td>
-        <td align="center"> </td>
         <td align="center"> </td>
     </tr>
     <tr>
@@ -28,13 +26,11 @@
         <td>NAVER MOVIE 현재 상영작 제목, 평점, 참여명수, 예매율, 개요 가져온 후 CSV 파일 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/08_movie_info.py">CODE</a></td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/09_naver_movie_01.py">CODE</a></td>
-        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">5</td>
         <td>NAVER MOVIE 스파이더맨: 뉴 유니버스 1 페이지 댓글 가져온 후 CSV 파일 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/10_naver_movie_comment_single_page.py">CODE</a></td>
-        <td align="center"> </td>
         <td align="center"> </td>
     </tr>
     <tr>
@@ -42,13 +38,11 @@
         <td>NAVER MOVIE 스파이더맨: 뉴 유니버스 1 ~ 5 페이지 댓글 가져온 후 CSV 파일 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/11_naver_movie_comment_multi_page.py">CODE</a></td>
         <td align="center"> </td>
-        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">7</td>
         <td>텍스트 시각화, Wordcloud</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/12_text_vis.py">CODE</a></td>
-        <td align="center"> </td>
         <td align="center"> </td>
     </tr>
     <tr>
@@ -56,14 +50,12 @@
         <td>샹치와 텐 링즈의 전설 댓글 1 ~ 100 페이지 댓글 가져온 후 Wordcloud 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/13_text_vis2.py">CODE</a></td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/PNG/wordcloud_샹치와%20텐%20링즈의%20전설_댓글_1000개.png">Wordcloud</a></td>
-        <td align="center"> </td>
     </tr>
     <tr>
         <td align="center">9</td>
         <td>네이버 영화 리뷰 크롤링</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/14_BeautifulSoup, Naver movie 리뷰 정보.ipynb">CODE</a></td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/CSV/스파이더맨리뷰.csv">CSV</a></td>
-        <td align="center"> </td>
     </tr>
 </table>
 
