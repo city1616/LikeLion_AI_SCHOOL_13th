@@ -99,7 +99,12 @@
     </tr>
 </table>
 
+[Base_Page]: https://city1616.github.io/LikeLion_AI_SCHOOL_13th/03.%20웹%20데이터%20수집하기/
+[Base_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/03.%20웹%20데이터%20수집하기
+[Bs_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup
+[Selenium_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/03.%20웹%20데이터%20수집하기/02.%20Selenium
 
+<!--
 1. BeautifulSoup 실습 [코드 1](04_bs_basic.py) | [코드 2](05_bs_basic.py)
 2. KOSPI 정보 가져온 후 CSV 파일 생성 [코드](06_stock_get.py)
 3. KOSDAQ 정보 가져온 후 CSV 파일 생성 [코드](07_kosdaq.py)
@@ -118,8 +123,4 @@
 3. 아마존에서 상품 검색하고, 상품 링크 가져오기 [코드]()
 4. 아마존 상품 리뷰 가져오기 [코드]()
 5. 네이버 데이터랩에서 키워드 가져오기 [코드]()
-
-[Base_Page]: https://city1616.github.io/LikeLion_AI_SCHOOL_13th/03.%20웹%20데이터%20수집하기/
-[Base_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/03.%20웹%20데이터%20수집하기
-[Bs_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup
-[Selenium_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/03.%20웹%20데이터%20수집하기/02.%20Selenium
+-->
