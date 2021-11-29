@@ -5,7 +5,7 @@
 <table>
     <tr>
         <td width="70" align="center">1</td>
-        <td width="300">title tag</td>
+        <td width="400">title tag</td>
         <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/02.%20web_html/01_html_title.html">PAGE</a></td>
         <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/02.%20web_html/01_html_title.html">HTML CODE</a></td>
         <td width="150" align="center"> </td>
@@ -52,7 +52,7 @@
 <table>
     <tr>
         <td width="70" align="center">1</td>
-        <td width="300">id, class</td>
+        <td width="400">id, class</td>
         <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/03.%20CSS/02_css_id_class.html">PAGE</a></td>
         <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/03.%20CSS/02_css_id_class.html">HTML CODE</a></td>
         <td width="150" align="center"> </td>
@@ -141,7 +141,7 @@
 <table>
     <tr>
         <td width="70" align="center">1</td>
-        <td width="300">var</td>
+        <td width="400">var</td>
         <td width="100" align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/03_var.html">PAGE</a></td>
         <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/03_var.html">HTML CODE</a></td>
         <td width="150" align="center"> </td>
