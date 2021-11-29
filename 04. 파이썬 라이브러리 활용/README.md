@@ -1,21 +1,50 @@
-## PYTHON LIBRARY
-* seaborn
-* pandas
-* folium
-* plotly
-* konlpy
-<hr>
+## 파이썬 라이브러리 활용 [PAGE][Base_Page] ⎮ [CODE][Base_Code]
 
 ### seaborn
-1. seaborn basic [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/01_seaborn_basic.ipynb)
-2. kaggle Titanic data seaborn 실습 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/02_kaggle_Titanic_seaborn.ipynb)
+
+<table>
+    <tr>
+        <td width="70" align="center">1</td>
+        <td width="630">seaborn 기본 실습</td>
+        <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/04.%20파이썬%20라이브러리%20활용/01.%20seaborn/01_seaborn_basic.ipynb">CODE</a></td>
+        <td width="150" align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">2</td>
+        <td>kaggle Titanic data seaborn 실습</td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/04.%20파이썬%20라이브러리%20활용/01.%20seaborn/02_kaggle_Titanic_seaborn.ipynb">CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+</table>
 
 ### pandas
-1. pandas basic [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/01_pandas_basic.ipynb)
-2. titanic data analysis 1 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/02_Titanic_pandas.ipynb)
-3. titanic data analysis 2 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/04_pandas_titanic.ipynb)
-4. corona data analysis [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/03_pandas_corona.ipynb)
 
+<table>
+    <tr>
+        <td width="70" align="center">1</td>
+        <td width="630">pandas 기본 실습</td>
+        <td width="150" align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/04.%20파이썬%20라이브러리%20활용/02.%20pandas/01_pandas_basic.ipynb">CODE</a></td>
+        <td width="150" align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">2</td>
+        <td>titanic data analysis 1</td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/04.%20파이썬%20라이브러리%20활용/02.%20pandas/02_Titanic_pandas.ipynb">CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">3</td>
+        <td>titanic data analysis 2</td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/04.%20파이썬%20라이브러리%20활용/02.%20pandas/04_pandas_titanic.ipynb">CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">4</td>
+        <td>corona data analysis</td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/04.%20파이썬%20라이브러리%20활용/02.%20pandas/03_pandas_corona.ipynb">CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+</table>
 
 ### folium
 1. folium basic [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/03_folium/01_folium_basic.ipynb)
@@ -40,3 +69,20 @@
 
 ### konlpy
 
+
+[Base_Page]: https://city1616.github.io/LikeLion_AI_SCHOOL_13th/04.%20파이썬%20라이브러리%20활용/
+[Base_Code]: https://github.com/city1616/LikeLion_AI_SCHOOL_13th/tree/master/04.%20파이썬%20라이브러리%20활용
+
+
+<!--
+
+1. seaborn basic [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/01_seaborn_basic.ipynb)
+2. kaggle Titanic data seaborn 실습 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/01_seaborn/02_kaggle_Titanic_seaborn.ipynb)
+
+1. pandas basic [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/01_pandas_basic.ipynb)
+2. titanic data analysis 1 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/02_Titanic_pandas.ipynb)
+3. titanic data analysis 2 [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/04_pandas_titanic.ipynb)
+4. corona data analysis [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/06_python_library/02_pandas/03_pandas_corona.ipynb)
+
+
+-->
