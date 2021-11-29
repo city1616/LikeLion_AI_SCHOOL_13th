@@ -160,13 +160,49 @@
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/06_1_str_example.html">HTML CODE</a></td>
         <td align="center"> </td>
     </tr>
+    <tr>
+        <td align="center">4</td>
+        <td>array</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/07_array.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/07_array.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">5</td>
+        <td>배열의 값을 하나씩 출력해 보는 프로그램(for)</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/08_for.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/08_for.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">6</td>
+        <td>외부 javascript 불러오기</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/09_external_js.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/09_external_js.html">HTML CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/09_for.js">JS CODE</a></td>
+    </tr>
+    <tr>
+        <td align="center">7</td>
+        <td>외부 javascript 불러오기</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/10_ex_js.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/10_ex_js.html">HTML CODE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/10_ex.js">JS CODE</a></td>
+    </tr>
+    <tr>
+        <td align="center">8</td>
+        <td>try except</td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04.%20javascript_example/11_try_except.html">PAGE</a></td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/11_try_except.html">HTML CODE</a></td>
+        <td align="center"> </td>
+    </tr>
+    <tr>
+        <td align="center">9</td>
+        <td>javascript review</td>
+        <td align="center"> </td>
+        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04.%20javascript_example/12_javascript_review.txt">TEXT</a></td>
+        <td align="center"> </td>
+    </tr>
 </table>
-
-4. array [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/07_array.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/07_array.html)
-5. 배열의 값을 하나씩 출력해 보는 프로그램(for) [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/08_for.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/08_for.html)
-6. 외부 javascript 불러오기 [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/09_external_js.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/09_external_js.html) | [js코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/09_for.js)
-7. 외부 javascript 불러오기 [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/10_ex_js.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/10_ex_js.html) | [js코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/10_ex.js)
-8. try except [PAGE](https://city1616.github.io/LikeLion_AI_SCHOOL_13th/02.%20웹과%20Github%20기본/04_javascript_example/11_try_except.html) | [코드](https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/02.%20웹과%20Github%20기본/04_javascript_example/11_try_except.html)
 
 😄😄😄😄😄😄
 
