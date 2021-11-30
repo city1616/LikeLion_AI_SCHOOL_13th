@@ -47,9 +47,9 @@
     </tr>
     <tr>
         <td align="center">8</td>
-        <td>샹치와 텐 링즈의 전설 댓글 1 ~ 100 페이지 댓글 가져온 후 Wordcloud 생성</td>
+        <td>샹치와 텐 링즈의 전설 댓글 1 ~ 100 페이지 댓글 가져온 후 WordCloud 생성</td>
         <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/01.%20BeautifulSoup/13_text_vis2.py">CODE</a></td>
-        <td align="center"><a href = "https://github.com/city1616/LikeLion_AI_SCHOOL_13th/blob/master/03.%20웹%20데이터%20수집하기/PNG/wordcloud_샹치와%20텐%20링즈의%20전설_댓글_1000개.png">Wordcloud</a></td>
+        <td align="center"><a href = "https://city1616.github.io/LikeLion_AI_SCHOOL_13th/03.%20웹%20데이터%20수집하기/PNG/wordcloud_샹치와%20텐%20링즈의%20전설_댓글_1000개.png">WordCloud</a></td>
     </tr>
     <tr>
         <td align="center">9</td>
