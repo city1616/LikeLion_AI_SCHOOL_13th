@@ -15,7 +15,7 @@
 03. 웹 데이터 수집하기 &nbsp; [PAGE][Web_Data_Page] ⎮ [CODE][Web_Data]
 04. 파이썬 라이브러리 활용 &nbsp; [PAGE][Python_Library_Page] ⎮ [CODE][Python_Library]
 05. 머신러닝 &nbsp; [PAGE][ML_Page] ⎮ [CODE][ML]
- 
+
 ## 프로젝트
 
 ### 1. 팀 프로젝트 - 사자감성 &nbsp; [PAGE][Team_Project_Page_01] ⎮ [CODE][Team_Project_01]
