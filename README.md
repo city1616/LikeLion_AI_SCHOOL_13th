@@ -8,7 +8,7 @@
 
 ---
 
-## 수업내용
+## 수업내용 
 
 01. 파이썬 기본 문법 &nbsp; [PAGE][Python_Basic_Page] ⎮ [CODE][Python_Basic]
 02. 웹과 Github 기본 &nbsp; [PAGE][Web_Page] ⎮ [CODE][Web]
