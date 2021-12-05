@@ -18,7 +18,7 @@
 
 ## 프로젝트 
 
-### 1. 팀 프로젝트 - 사자감성 &nbsp; [PAGE][Team_Project_Page_01] ⎮ [CODE][Team_Project_01]
+### 1. 팀 프로젝트 - 사자감성 &nbsp; [PAGE][Team_Project_Page_01] ⎮ [CODE][Team_Project_01] 
 
 <table>
     <tr>
