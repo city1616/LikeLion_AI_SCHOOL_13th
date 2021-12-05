@@ -20,7 +20,7 @@
 
 ### 1. 팀 프로젝트 - 사자감성 &nbsp; [PAGE][Team_Project_Page_01] ⎮ [CODE][Team_Project_01] 
 
-<table>
+<table> 
     <tr>
         <td width="150" align="center">팀명</td>
         <td width="700">사자감성</td>
